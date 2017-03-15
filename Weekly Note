@@ -16,22 +16,24 @@ _Honestly, I have not done too much work this week due to some personal issues, 
 
 _The limited work I have down on week 3 is specifying the criteria to pick different types of sequencer_
 
-Criteria:
-> Concrete:
+#### Criteria:
+> ###### Concrete:
 >> Grid-based:
->>>1. One Track:
->>>2. Multi-Tracks:
+>>>1. One Track: _minicomposer_
+>>>2. Multi-Tracks: _Auxy & Beatwave_
 
 >> Euclidean-based:
->>>1.   
+>>>1.   _Necklace & Trigger Box_
 
-> Abstract:
+> ###### Abstract:
 >> pitch on x-axis or y-axis
 >>> 1. x-axis:
 >>> 2. y-axis:
 
 >> Quantized
->>> 1.
+>>> 1. _Orbita & Loop_
+
+>> LEGO-based
 
 
 ### -- Tasks:
