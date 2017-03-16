@@ -1,0 +1,22 @@
+The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces
+---
+***
+1. _We begin by exposing the main reasons that turn live music performance into an ideal test-bed for advanced HCI,_
+2. _Robert Moog estimated that a skilled musician is able to generate about 1,000 bits/sec of meaningful information_
+3. _music performance outstandingly combines precision with freedom._
+4. _It also combines expression and creativity with entertainment._
+5. _It provides an excellent ground for studying and comparing interaction by both dilettantes and experts, both children and adults._
+6. _the performer no longer needs to control directly all these aspects of the production of sound, being able instead to direct and supervise the computer processes which control these details._
+7. _us allowing musicians to work at different musical levels and forcing them to take higher level and more compositional decisions on-the-fly_
+8. _multithreaded and shared control approach_
+9. _Visual feedback becomes thus a significant asset for allowing this type of instruments to dynamically ‘communicate’ the states and the behaviors of their musical processes_
+10. _researchers have often criticized the application of computer vision techniques in tabletop development, pointing out drawbacks such as slowness and high latency, instability, lack of robustness and occlusion problems_
+11. _This often poses problems with respect to the scalability of such systems, in terms of the physical objects that can be realistically manipulated on a table, and the restricted level of complexity_
+
+#### Additional Reading:
+17. Jordà, S. FMOL: Toward User-Friendly, Sophisticated New Musical Instruments. Computer Music Journal, 26(3) (2002), 23-39.
+
+20. Jordà, S. Digital Lutherie: Crafting musical computers for new musics performance and improvisation. PhD. dissertation, Universitat Pompeu Fabra, Barcelona (2005).
+
+35. Ullmer B. and Ishii, H. Emerging Frameworks for Tangible User Interfaces. In Human-Computer Interaction in the New Millenium, Ed. John M. Carroll, Addison-Wesley (2001), 579-601.
+***
