@@ -41,3 +41,71 @@ _The limited work I have down on week 3 is specifying the criteria to pick diffe
 * Build up a Appendix of the Sequencer Application
 * Reading _The reacTable: Exploring the Synergy between Live Music
 Performance and Tabletop Tangible Interfaces_
+
+## Week 4
+
+### -- Meeting agenda:
+
+1. Questions on The reacTable...
+ - _Why Live Music Perform is the playground for the advanced HCI ?_
+    - This essay is proposed 10 years ago, has time changed?
+      - What about the new tech i.e. VR, Gesture Control...
+    - How about the painting process ? similar to music compose, painting is also a process of innovation and creation. If not, is that because painting don't have the high dimensional control, as well as the process of painting is not continuous.
+    **_Continuous and multidimensional control, naturally tends to avoid the ubiquitous files, folders and hyperlinks metaphors, still dominant in HCI._**
+
+  - _How important is Evaluation Matrix ?_
+
+    - Also called decision matrix i.e. SWOT
+    - How Aussie learn matrix ?
+  - _In page 144, under the sub-title Scalability, it discuss a measurement(or criteria) to justify the complexity(or Scalability) of tangible platform.
+    - Is there are similar criteria to evaluate the iOS musical application, more specifically, the sequencer.
+    - Or this could be the work I should do in my report to propose a criteria or design guidances for future work
+
+  -  _The relation between Synthesizer and Sequencer ?_
+    It looks like Sequencer is a larger category in which  synthesizer consist of every single "note" of sequencer.
+    - **Synthesizer :** _"A synthesizer app exposes a selection of controls to a syn- thesis engine, and provides a piano-style keyboard for trig- gering the synthesized sounds."_
+    - **Sequencer :** _"This category is inclusive of both drum machines and step sequencers. Time is divided into some number of dis- crete steps (16, 32, or 64), and time then moves step-by- step from left to right, according to a set tempo."_
+
+  - The classification above if cited from _A Quantitative Review of Mappings in Musical iOS Applications_.  I won't think this thesis is well structured, how do you think ?
+    - base on the number of reference,
+    - first two reference is like a web page
+    - no appendix for the app they studied
+    - but it mention one or two thesis about mapping electric instrument  
+
+2. Logic Structure of _The reacTable..._
+  > **abstract**
+
+  > **keyword**
+
+  > **introduction**
+
+  > **Body I : Introduce the importance of live music performance on HCI **
+  >  > Introducing general music controller
+
+  >  > Highlight the advantage of tabletop Interfaces
+
+  >  > 2 major design problem : _Multi-thread & share Control_
+
+  >  > Specially mention the benefit of the _Visual feedback_
+
+  >  > Luckily reacTable has successfully solved the above problems     
+
+  > **Body II : Introducing reacTable **
+
+  >  > predecessor of reacTable : FMOL
+
+  >  > concept & description of reacTable
+
+  >  > implementation of reacTable
+
+  >  > reacTable keeps the _visual feedback_ design in mind
+
+  >  > evaluation of reacTable : Scalability
+
+  >  > carefully mention the problem of reacTable
+
+  > **conclusion**
+
+  > **acknowledgement**
+
+  > **reference**
