@@ -1,0 +1,18 @@
+## Initial Presentation
+-- ** the main idea of this 5-min presentation is helping students deliver a formal presentation in the end of this semester **
+
+### Structure of academic presentation
+
+1. **Title** & Student's Name & Supervisor's Name --(1 slide)
+2. **Overview** : the structure of content        --(1 slide)
+3. **Introduction** : we first introduce the background of HCI in a large view, and illustrate live music performance is the ideal test-bed for HCI, then explain ipad-based Sequencer as a new instrument that could be used in live music performance. --(1 slide)
+4. **Problem Definition** : "_While musical interfaces have long been studied in HCI, the iPad and app store has produced thousands of novel (and not-so-novel) twists on the “grid-based” sequencer paradigm._" --(1 slide)
+5. **Approach/Architecture** :   "_Conduct a survey & create an interface taxonomy of current music sequencer apps on the iOS app store_"  &  "_Perform an HCI user study of a selection of these apps (based on the taxonomy) measuring the user experience & preferences of musicians in creating music with these interfaces_"  --(2 slides)
+
+6. **Evaluation/Performance** :
+  "_In this, musicians will be given various apps in an open-ended music-making task, and will answer a user-experience questionnaire and short interview to further probe the impacts of these design choices._" --(2 slide)
+
+7. **Conclusion** :
+  "_As a result, a set of design guidelines/considerations will be produced for the construction of interfaces for music sequencing._"    --(1 slide)
+
+8. **Question** : Weifa will be the person ask the questions  
