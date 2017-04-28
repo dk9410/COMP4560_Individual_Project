@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.23)  25 APR 2017 01:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.23)  26 APR 2017 14:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -695,11 +695,7 @@ Appendix A.
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./Thesis.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-)
+(./Thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
  [5
 
@@ -714,11 +710,11 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
  ) 
 Here is how much of TeX's memory you used:
- 12926 strings out of 493014
- 183022 string characters out of 6133351
- 253676 words of memory out of 5000000
- 16247 multiletter control sequences out of 15000+600000
- 13007 words of font info for 48 fonts, out of 8000000 for 9000
+ 12932 strings out of 493014
+ 183115 string characters out of 6133351
+ 253739 words of memory out of 5000000
+ 16251 multiletter control sequences out of 15000+600000
+ 13175 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,11n,45p,916b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -733,11 +729,12 @@ l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local
 texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Thesis.pdf (17 pages, 161119 bytes).
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on Thesis.pdf (17 pages, 174844 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 195 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 203 compressed objects within 3 object streams
+ 43 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
