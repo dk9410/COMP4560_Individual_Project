@@ -145,21 +145,21 @@
 \newcommand*{\FACULTY}[1]{\def\FACNAME{#1}}
 \newcommand*{\subject}[1]{\def\subjectname{#1}}
 \newcommand*{\keywords}[1]{\def\keywordnames{#1}}
-\supervisor  {}
+\supervisor  {{Ben Swift}}
 \examiner    {}
 \degree      {}
 \authors     {}
-\university  {\texorpdfstring{\href{University Web Site URL Here (include http://)}
+\university  {\texorpdfstring{\href{http://www.anu.edu.au (include http://)}
                 {Australia National University}}
-                {University Name}}
-\UNIVERSITY  {\texorpdfstring{\href{University Web Site URL Here (include http://)}
+                {Australia National University}}
+\UNIVERSITY  {\texorpdfstring{\href{http://www.anu.edu.au (include http://)}
                 {AUSTRALIA NATIONAL UNIVERSITY}}
-                {UNIVERSITY NAME (IN BLOCK CAPITALS)}}
-\department  {\texorpdfstring{\href{Department or School Web Site URL Here (include http://)}
-                {ANU College of Engineering and Computer Science}}
+                {Australia National University (IN BLOCK CAPITALS)}}
+\department  {\texorpdfstring{\href{https://cs.anu.edu.au (include http://)}
+                {Research School of Computer Science}}
                 {Department or School Name}}
-\DEPARTMENT  {\texorpdfstring{\href{Department or School Web Site URL Here (include http://)}
-                {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
+\DEPARTMENT  {\texorpdfstring{\href{https://cs.anu.edu.au (include http://)}
+                {Research School of Computer Science (IN BLOCK CAPITALS)}}
                 {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
 \group       {\texorpdfstring{\href{Research Group Web Site URL Here (include http://)}
                 {Research Group Name}}
@@ -167,11 +167,11 @@
 \GROUP       {\texorpdfstring{\href{Research Group Web Site URL Here (include http://)}
                 {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}}
                 {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}}
-\faculty     {\texorpdfstring{\href{Faculty Web Site URL Here (include http://)}
+\faculty     {\texorpdfstring{\href{https://cecs.anu.edu.au (include http://)}
+                {ANU College of Engineering and Computer Science}}
                 {Faculty Name}}
-                {Faculty Name}}
-\FACULTY     {\texorpdfstring{\href{Faculty Web Site URL Here (include http://)}
-                {FACULTY NAME (IN BLOCK CAPITALS)}}
+\FACULTY     {\texorpdfstring{\href{https://cecs.anu.edu.au (include http://)}
+                {ANU College of Engineering and Computer Science (IN BLOCK CAPITALS)}}
                 {FACULTY NAME (IN BLOCK CAPITALS)}}
 \addresses   {}
 \subject     {}
@@ -201,13 +201,13 @@
       {\LARGE \authornames \par}
       \vfill
       {\large A thesis submitted in partial fulfillment for the \par}
-      {\large degree of Bachelor of Advanced Computing \par}
-      \bigskip
-      \bigskip
+      {\large degree of Bachelor of Advanced Computing(Honours) \par}
       {\large in the \par}
-      {\large \facname \par}
       {\large \deptname \par}
       \bigskip
+      \bigskip
+      {\large \large Supervisor: \par}
+      {\large \large \bf Dr. Benjamin Swift \par}
       \bigskip
       \bigskip
       {\Large \@date \par}
@@ -242,10 +242,10 @@
     {\huge{\textit{Abstract}} \par}
     \bigskip
     {\normalsize \facname \par}
-    {\normalsize \deptname \par}
+    % {\normalsize \deptname \par}
     \bigskip
-    {\normalsize Doctor of Philosophy\par}
-    \bigskip
+    % {\normalsize Doctor of Philosophy\par}
+    % \bigskip
     {\normalsize\bf \@title \par}
     \medskip
     {\normalsize by \authornames \par}

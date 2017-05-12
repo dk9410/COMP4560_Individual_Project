@@ -7,9 +7,10 @@
 \graphicspath{Figures/}  % Location of the graphics files (set up for graphics to be in PDF format)
 
 % Include any extra LaTeX packages required
-\usepackage[square, numbers, comma, sort&compress]{natbib}  % Use the "Natbib" style for the references in the Bibliography
+\usepackage[square, comma, sort&compress]{natbib}  % Use the "Natbib" style for the references in the Bibliography
 \usepackage{verbatim}  % Needed for the "comment" environment to make LaTeX comments
 \usepackage{vector}  % Allows "\bvec{}" and "\buvec{}" for "blackboard" style bold vectors in maths
+\usepackage{hyperref}
 \hypersetup{urlcolor=blue, colorlinks=true}  % Colours hyperlinks in blue, but this can be distracting if there are many links.
 
 %% ----------------------------------------------------------------
@@ -24,7 +25,7 @@
             }
 \addresses  {\groupname\\\deptname\\\univname}  % Do not change this here, instead these must be set in the "Thesis.cls" file, please look through it instead
 \date       {\today}
-\subject    {}
+% \subject    {}
 \keywords   {}
 
 \maketitle
@@ -45,7 +46,7 @@
 
 \addtocontents{toc}{\vspace{1em}}  % Add a gap in the Contents, for aesthetics
 
-I, AUTHOR NAME, declare that this thesis titled, `THESIS TITLE' and the work presented in it are my own. I confirm that:
+I, Ke Ding, declare that this thesis titled, `An evaluation of touch-based music sequencer apps on iPad' and the work presented in it are my own. I confirm that:
 
 \begin{itemize}
 \item[\tiny{$\blacksquare$}] This work was done wholly or mainly while in candidature for a research degree at this University.
@@ -77,10 +78,10 @@ Date:\\
 
 \null\vfill
 % Now comes the "Funny Quote", written in italics
-\textit{``Write a funny quote here.''}
+\textit{``We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.''}
 
 \begin{flushright}
-If the quote is taken from someone, their name goes here
+Roy Amara, leader at the Institute for the Future
 \end{flushright}
 
 \vfill\vfill\vfill\vfill\vfill\vfill\null
@@ -92,7 +93,7 @@ If the quote is taken from someone, their name goes here
 \abstract{
 \addtocontents{toc}{\vspace{1em}}  % Add a gap in the Contents, for aesthetics
 
-The Thesis Abstract is written here (and usually kept to just this page). The page is kept centered vertically so can expand into the blank space above the title too\ldots
+With the repid development of technoldge, mobile devices have become the new ground for musicians to express themselves. With a variety of sensors, as well as the exponentional growth in the processing power, iPad offer an attracitve platform for music performing. Thousands of music applications have been developed for the iPad. Music sequencer applications, as one of the major category of music making applications, have seen a lot of derivation and innovation
 
 }
 
@@ -133,7 +134,7 @@ The acknowledgements and the people to thank go here, don't forget to include yo
 \listofsymbols{ll}  % Include a list of Abbreviations (a table of two columns)
 {
 % \textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
-\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
+\textbf{NIME} & \textbf{N}ew \textbf{M}usical \textbf{I}nstrument \textbf{E}xpression \\
 
 }
 
@@ -179,11 +180,11 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 
 \input{Chapters/Chapter1} % Introduction
 
-%\input{Chapters/Chapter2} % Background Theory
+\input{Chapters/Chapter2} % Background Theory
 
-%\input{Chapters/Chapter3} % Experimental Setup
+\input{Chapters/Chapter3} % Experimental Setup
 
-%\input{Chapters/Chapter4} % Experiment 1
+\input{Chapters/Chapter4} % Experiment 1
 
 %\input{Chapters/Chapter5} % Experiment 2
 
@@ -198,9 +199,9 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 
 \appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
 
-\input{Appendices/AppendixA}	% Appendix Title
+\include{Appendices/AppendixA}	% Appendix Title
 
-%\input{Appendices/AppendixB} % Appendix Title
+\include{Appendices/AppendixB} % Appendix Title
 
 %\input{Appendices/AppendixC} % Appendix Title
 
