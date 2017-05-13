@@ -8,45 +8,46 @@ Database file #1: Bibliography.bib
 Warning--empty booktitle in Reference7
 Warning--empty year in Reference7
 Warning--empty year in Reference7
-You've used 13 entries,
+Warning--empty journal in Reference0
+You've used 14 entries,
             2481 wiz_defined-function locations,
-            642 strings with 6732 characters,
-and the built_in function-call counts, 5516 in all, are:
-= -- 497
-> -- 193
-< -- 16
-+ -- 82
-- -- 56
-* -- 343
-:= -- 792
-add.period$ -- 44
-call.type$ -- 13
-change.case$ -- 26
-chr.to.int$ -- 13
-cite$ -- 16
-duplicate$ -- 329
-empty$ -- 564
-format.name$ -- 71
-if$ -- 1257
+            646 strings with 6837 characters,
+and the built_in function-call counts, 5773 in all, are:
+= -- 518
+> -- 200
+< -- 17
++ -- 86
+- -- 58
+* -- 354
+:= -- 834
+add.period$ -- 47
+call.type$ -- 14
+change.case$ -- 28
+chr.to.int$ -- 14
+cite$ -- 18
+duplicate$ -- 347
+empty$ -- 592
+format.name$ -- 74
+if$ -- 1311
 int.to.chr$ -- 1
-int.to.str$ -- 14
-missing$ -- 12
-newline$ -- 73
-num.names$ -- 39
-pop$ -- 153
+int.to.str$ -- 15
+missing$ -- 13
+newline$ -- 78
+num.names$ -- 42
+pop$ -- 164
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 14
 quote$ -- 0
-skip$ -- 210
+skip$ -- 221
 stack$ -- 0
-substring$ -- 264
-swap$ -- 93
+substring$ -- 266
+swap$ -- 94
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 91
-warning$ -- 3
-while$ -- 52
+type$ -- 98
+warning$ -- 4
+while$ -- 54
 width$ -- 0
-write$ -- 177
-(There were 3 warnings)
+write$ -- 188
+(There were 4 warnings)

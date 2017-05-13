@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.23)  12 MAY 2017 02:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.23)  13 MAY 2017 19:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -704,9 +704,82 @@ Chapter 4.
 ------------------------------------------------------------------------------
  4 Study 2: User Study
 ------------------------------------------------------------------------------
-) [5
+[5
 
 ]
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/10.95 6.25| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/10.95 6.08| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/10.95 6.06| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 32--33
+[]\OT1/cmr/m/n/10.95 6.23| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/10.95 6.04| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/10.95 5.98| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/10.95 5.79| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/10.95 5.85| 
+ []
+
+
+Overfull \hbox (2.20476pt too wide) in paragraph at lines 38--38
+[]\OT1/cmr/m/n/10.95 PSSQA| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/10.95 6.21| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 39--40
+[]\OT1/cmr/m/n/10.95 6.02| 
+ []
+
+
+Overfull \hbox (14.63911pt too wide) in paragraph at lines 23--43
+[][]
+ []
+
+[6] <images/Participant.jpg, id=359, 3035.34pt x 4047.12pt>
+File: images/Participant.jpg Graphic file (type jpg)
+
+<use images/Participant.jpg>
+Package pdftex.def Info: images/Participant.jpg used on input line 55.
+(pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
+
+<images/Participant2.jpg, id=360, 3035.34pt x 4047.12pt>
+File: images/Participant2.jpg Graphic file (type jpg)
+
+<use images/Participant2.jpg>
+Package pdftex.def Info: images/Participant2.jpg used on input line 56.
+(pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
+ [7 <./images/Participant.jpg> <./images/Participant2.jpg>]) [8]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (./Appendices/AppendixA.tex
@@ -914,7 +987,7 @@ Overfull \hbox (18.63911pt too wide) in paragraph at lines 48--105
 [][] 
  []
 
-[6
+[9
 
 
 ]
@@ -1042,7 +1115,7 @@ Overfull \hbox (18.63911pt too wide) in paragraph at lines 112--169
 [][] 
  []
 
-[7]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
 []\OT1/cmr/m/n/10.95 Application
  []
@@ -1158,11 +1231,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--223
  []
 
 )
-Overfull \hbox (18.63911pt too wide) in paragraph at lines 175--202
+Overfull \hbox (18.63911pt too wide) in paragraph at lines 175--203
 [][] 
  []
 
-[8] [9]
+[11] [12]
 \openout2 = `Appendices/AppendixB.aux'.
 
  (./Appendices/AppendixB.tex
@@ -1170,14 +1243,14 @@ Appendix B.
 ------------------------------------------------------------------------------
  B Questionnaire
 ------------------------------------------------------------------------------
-<images/Questionnaire_1.png, id=457, 489.83pt x 692.5875pt>
+<images/Questionnaire_1.png, id=498, 489.83pt x 692.5875pt>
 File: images/Questionnaire_1.png Graphic file (type png)
 
 <use images/Questionnaire_1.png>
 Package pdftex.def Info: images/Questionnaire_1.png used on input line 8.
 (pdftex.def)             Requested size: 417.47307pt x 590.29793pt.
 
-<images/Questionnaire_2.png, id=459, 488.82625pt x 692.5875pt> [10
+<images/Questionnaire_2.png, id=500, 488.82625pt x 692.5875pt> [13
 
 
 
@@ -1185,12 +1258,12 @@ Package pdftex.def Info: images/Questionnaire_1.png used on input line 8.
 Overfull \vbox (77.90648pt too high) has occurred while \output is active []
 
 
-[11 <./images/Questionnaire_1.png>]
+[14 <./images/Questionnaire_1.png>]
 File: images/Questionnaire_2.png Graphic file (type png)
  <use images/Questionnaire_2.png>
 Package pdftex.def Info: images/Questionnaire_2.png used on input line 10.
 (pdftex.def)             Requested size: 417.47307pt x 591.50267pt.
-) [12 <./images/Questionnaire_2.png>]
+) [15 <./images/Questionnaire_2.png>]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
@@ -1204,7 +1277,7 @@ Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [13
+ [16
 
 
 
@@ -1212,28 +1285,32 @@ Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
  (./Thesis.aux (./Appendices/AppendixA.aux)
 (./Appendices/AppendixB.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C5AF58629D8ED1D578EA7A2C6793EEC2;5095.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
+(rerunfilecheck)             Checksum: 5BECCFC405CA97FDE166EC9925856375;5819.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
- 13073 strings out of 493014
- 185391 string characters out of 6133351
- 280763 words of memory out of 5000000
- 16326 multiletter control sequences out of 15000+600000
- 13175 words of font info for 49 fonts, out of 8000000 for 9000
+ 13115 strings out of 493014
+ 186048 string characters out of 6133351
+ 281999 words of memory out of 5000000
+ 16347 multiletter control sequences out of 15000+600000
+ 13476 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,1044b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,45p,1216b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
@@ -1246,10 +1323,10 @@ xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Thesis.pdf (27 pages, 397111 bytes).
+Output written on Thesis.pdf (30 pages, 3821614 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 501 compressed objects within 6 object streams
- 85 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 539 compressed objects within 6 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
