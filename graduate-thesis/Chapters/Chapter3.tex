@@ -18,7 +18,31 @@ Base on \citeauthor{Reference13}'s study which created a whitelisted words for m
 The different approaches of interacting with the applications were used to classify the user interface of the music sequencer applications into several categories. The mappings of the sequencer were broke down into 4 operations,
 which were \textit{changing pitch, triggering sound, timing and changing timber}.
 
-\textbf{Changing Pitch.} Becasue the way most traditional instruments' pitch were changed discretely(for example, piano, guitar and violin) most of the sequencer application  
+\textbf{Changing Pitch.} Becasue the way most traditional instruments' pitch were changed discretely, for example, piano, guitar and violin. The majority of musical application including sequencer follow this trend. Besides, pitch is dominated by grid-like, buttom-to-top mapping in music sequencer hardware. Therefore, grid-based, buttome-to-top and discrete pitches layout is widely adopted.
+
+\bigskip
+\begin{figure}[h]
+  \includegraphics[width=12 cm]{images/Beatwave.PNG}
+  \centering
+  \caption{Beatwave: grid-based, buttome-to-top and discrete pitch layout}
+  \label{fig: Beatwave}
+\end{figure}
+\bigskip
+
+ Figure \ref{fig: Beatwave} is a good example of this classic interface, in which the interface is divided into 16x16 grids. The time, which is separated into 16 steps, only moves one step at a time from left to right. The blue vertical line works as a reminder of current time, and also indicates what is coming next(in the next step). The white square, on the other hand, represents the sound of a certain instrument. In this case, it represents an electrical sound called \textit{FUTURE}. The column in each step is divided into 16 scales and which are the pitches of the instrument. The white squares located in the top of the grids are high pitch sound of the instrument, on the contrary, the pitch of the sound from the bottom is relatively low.
+
+ However, not all the grid-based sequencer applications increase pitch from bottom to top. There is a small portion of sequencer increase pitch from left to right. For instance, SoundZenHD used a left-to-right pitch mapping (see figure: \ref{fig: SoundZen}).
+
+\bigskip
+\begin{figure}[h]
+  \includegraphics[width=12 cm]{images/SoundZen.PNG}
+  \centering
+  \caption{SoundZen: grid-based, right-to-left and discrete pitch layout}
+  \label{fig: SoundZen}
+\end{figure}
+\bigskip
+
+In addition to the discrete pitch mapping, there are attempts to implement the continuous pitch. CSketch Lite followed the classic grid-based layout, but it implements continuous sequencing. By implementing the continuous sequenceing, CSketch is able to prodecue continuous sound in a series steps rather than make discrete sound step by step, which breaks the bound of the traditional music sequencer. Therefore, the pitch is changing continuously. Even though, the mapping of pitch is still decreasing from top to bottom.
 
 
 \section{Results}
