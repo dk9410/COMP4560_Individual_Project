@@ -46,22 +46,39 @@ In addition to the discrete pitch mapping, there are attempts to implement the c
 
 Except for the linear mapping though the grids, some few Apps adopted the non-linear pitch mapping. For instance, \textit{Orbita} simulates the movemment of a small planet orbits around a central planet along an elliptical path. And in this case, different color of \textquotedblleft{planet}\textquotedblright represent different instruments, which produces sound while elliptical orbit. The pitch is changing continuously based on the distance between the small planet and the central planet(see figure \ref{fig: Orbita}).
 
-\begin{figure}
+\bigskip
+\begin{figure}[h]
   \includegraphics[width=12 cm]{images/CSketch_Lite.PNG}
   \centering
   \caption{CSketch Lite: grid-based, top-to-bottom and continuous pitch layout}
   \label{fig: CSketch}
 \end{figure}
-
-It is not unusal of mapping pitch to colour in music applications \citep{Reference14}. However, there was only one music sequencer found to represent pitch with different colors.  
-
-\newpage
 \bigskip
-\begin{figure}
+
+It is not unusal of mapping pitch to colour in music applications \citep{Reference14}. However, there was only one music sequencer found to represent pitch with different colors (see Figure \ref{fig: Volotic}). In \textit{Volotic}, there is an emiter which continuously emits red little dot sequently. The red color, in this case, means note C or \textbf{Do} which is the first note of the fixed-Do solfège scale. Once the red little dot passed though a tone assigner, it's tone changed relatively and so as it's color. In Figure \ref{fig: Volotic}, the green symbol is a tone assigner called TUNNING, and the number in the middle denotes what note it is going to assign. There are seven different TUNNINGs which together consist the key of C(or C major).
+
+However, this color-based mapping is not intuitive. It takes significant effort to link different keys to colors. Besides, in this case, the two colors between pitch E (\textbf{Mi}, the third note of the C major scale) and pitch F (\textbf{Fa}, the fourth note of the C major scale) is very difficult to distinguish. This unintuitive mapping could be the reason why the color-based pitch is not widely implemented, and we will look into the details in the next chapter.
+
+\textbf{Triggering and Timing.} In \citeauthor{Reference14}'s study, the mechanics of how users inteacted with applications and the methods of how time was represented were studied seperately. However, in most music sequencer applications, time is used to triiger sounds. Therefore, triggering and timing were analyzed together in our study.
+
+Unsuperisingly, given the fact that toggles are primary used on sequencer hardware, virtual toggles are the most commonl method for users to control sequencer applications to start producing sounds. In Figure \ref{fig: Beatwave}, \ref{fig: SoundZen} and \ref{fig: CSketch} there are virtual toggles acting as main switch to control the play/stop operation. After the main switch turned on, time is uesd to determaine the triggering sequence of a series of notes or several pieces of sounds. Likewise, timing in the majority of sequencer applications follow the convention of sequencer hardware, which time move from left to right. Some very few applications don't have an explicity display of time, such as \textit{Orbita} and \textit{Volotic} (see Figure \ref{fig: Orbita}, \ref{fig: Volotic}).
+
+\bigskip
+\begin{figure}[h]
   \includegraphics[width=12 cm]{images/Orbita.PNG}
   \centering
   \caption{Orbita: elliptical orbita, non-linear and continuous pitch layout}
   \label{fig: Orbita}
+\end{figure}
+\bigskip
+
+\newpage
+\bigskip
+\begin{figure}
+  \includegraphics[width=12 cm]{images/Volotic.PNG}
+  \centering
+  \caption{Volotic: game-like, linear and color-based pitch layout}
+  \label{fig: Volotic}
 \end{figure}
 \bigskip
 
