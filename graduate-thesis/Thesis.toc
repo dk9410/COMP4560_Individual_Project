@@ -22,22 +22,22 @@
 \contentsline {section}{\numberline {2.2}Musical Interaction Patterns}{3}{section.27}
 \contentsline {section}{\numberline {2.3}Evaluation of musical instruments}{3}{section.28}
 \contentsline {subsection}{\numberline {2.3.1}From performer's pespective}{3}{subsection.29}
-\contentsline {subsection}{\numberline {2.3.2}From audience's pespective}{3}{subsection.30}
+\contentsline {subsection}{\numberline {2.3.2}rom audience's pespective}{3}{subsection.30}
 \contentsline {chapter}{\numberline {3}Study 1: Classification of music sequencer}{4}{chapter.31}
 \contentsline {section}{\numberline {3.1}Method}{4}{section.32}
 \contentsline {subsection}{\numberline {3.1.1}Search Criteria}{4}{subsection.33}
-\contentsline {section}{\numberline {3.2}Classification criteria}{4}{section.34}
-\contentsline {section}{\numberline {3.3}Results}{4}{section.35}
-\contentsline {chapter}{\numberline {4}Study 2: User Study}{5}{chapter.36}
-\contentsline {section}{\numberline {4.1}Method}{5}{section.37}
-\contentsline {subsection}{\numberline {4.1.1}Questionnaire}{5}{subsection.38}
-\contentsline {subsection}{\numberline {4.1.2}Participants}{6}{subsection.40}
-\contentsline {subsection}{\numberline {4.1.3}Interview}{7}{subsection.42}
-\contentsline {section}{\numberline {4.2}Results}{8}{section.43}
-\contentsline {section}{\numberline {4.3}Discussion}{8}{section.44}
-\contentsline {section}{\numberline {4.4}Summary}{8}{section.45}
+\contentsline {subsection}{\numberline {3.1.2}Classification criteria}{5}{subsection.34}
+\contentsline {section}{\numberline {3.2}Results}{9}{section.40}
+\contentsline {chapter}{\numberline {4}Study 2: User Study}{10}{chapter.41}
+\contentsline {section}{\numberline {4.1}Method}{10}{section.42}
+\contentsline {subsection}{\numberline {4.1.1}Questionnaire}{10}{subsection.43}
+\contentsline {subsection}{\numberline {4.1.2}Participants}{11}{subsection.45}
+\contentsline {subsection}{\numberline {4.1.3}Interview}{12}{subsection.47}
+\contentsline {section}{\numberline {4.2}Results}{13}{section.48}
+\contentsline {section}{\numberline {4.3}Discussion}{13}{section.49}
+\contentsline {section}{\numberline {4.4}Summary}{13}{section.50}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}App Store Music Sequencer Applications}{9}{appendix.46}
-\contentsline {chapter}{\numberline {B}Questionnaire}{13}{appendix.47}
+\contentsline {chapter}{\numberline {A}App Store Music Sequencer Applications}{14}{appendix.51}
+\contentsline {chapter}{\numberline {B}Questionnaire}{18}{appendix.52}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{16}{dummy.48}
+\contentsline {chapter}{Bibliography}{21}{dummy.53}

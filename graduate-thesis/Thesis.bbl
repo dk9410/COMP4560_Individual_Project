@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -84,6 +84,17 @@ Ge~Wang.
 \newblock Designing smule’s iphone ocarina.
 \newblock In \emph{Proceedings of the International Conference on New
   Interfaces for Musical Expression}, pages 303--307, 2009.
+
+\bibitem[Kell and Wanderley(2013)]{Reference13}
+Thor Kell and Marcelo~M Wanderley.
+\newblock A quantitative review of mappings in musical ios applications.
+\newblock In \emph{International Conference on Sound and Music Computing
+  (SMC2013). http://tide-pool. ca/papers/Thor\% 20Kell}, 2013.
+
+\bibitem[Kell and Wanderley(2014)]{Reference14}
+Thor Kell and Marcelo~M Wanderley.
+\newblock A high-level review of mappings in musical ios applications.
+\newblock In \emph{ICMC}, 2014.
 
 \bibitem[Schmid(2015)]{Reference0}
 Gian-Marco Schmid.
