@@ -1,9 +1,63 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wanderley and Orio(2002)]{Reference16}
+Marcelo~Mortensen Wanderley and Nicola Orio.
+\newblock Evaluation of input devices for musical expression: Borrowing tools
+  from hci.
+\newblock \emph{Computer Music Journal}, 26\penalty0 (3):\penalty0 62--76,
+  2002.
+
+\bibitem[NIME(2012)]{Reference15}
+NIME.
+\newblock Nime: The international conference on new interfaces for musical
+  expression, 2012.
+\newblock URL \url{http://www.nime.org}.
+\newblock [Online;Accessed: 2017-05-11].
+
+\bibitem[Shaer and Hornecker(2010)]{Reference17}
+Orit Shaer and Eva Hornecker.
+\newblock Tangible user interfaces: past, present, and future directions.
+\newblock \emph{Foundations and Trends in Human-Computer Interaction},
+  3\penalty0 (1--2):\penalty0 1--137, 2010.
+
+\bibitem[Kaltenbrunner and Bencina(2007)]{Reference18}
+Martin Kaltenbrunner and Ross Bencina.
+\newblock reactivision: a computer-vision framework for table-based tangible
+  interaction.
+\newblock In \emph{Proceedings of the 1st international conference on Tangible
+  and embedded interaction}, pages 69--74. ACM, 2007.
+
+\bibitem[Wang(2009)]{Reference8}
+Ge~Wang.
+\newblock Designing smule’s iphone ocarina.
+\newblock In \emph{Proceedings of the International Conference on New
+  Interfaces for Musical Expression}, pages 303--307, 2009.
+
+\bibitem[Bryan et~al.(2010)Bryan, Herrera, Oh, and Wang]{Reference8.2}
+Nicholas~J Bryan, Jorge Herrera, Jieun Oh, and Ge~Wang.
+\newblock Momu: A mobile music toolkit.
+\newblock In \emph{NIME}, pages 174--177, 2010.
+
+\bibitem[Kruge and Wang(2011)]{Reference8.3}
+Nick Kruge and Ge~Wang.
+\newblock Madpad: A crowdsourcing system for audiovisual sampling.
+\newblock In \emph{NIME}, pages 185--190, 2011.
+
+\bibitem[Wang et~al.(2011)Wang, Oh, and Lieber]{Reference8.4}
+Ge~Wang, Jieun Oh, and Tom Lieber.
+\newblock Designing for the ipad: Magic fiddle.
+\newblock In \emph{NIME}, pages 197--202, 2011.
+
+\bibitem[Nguyen et~al.(2015)Nguyen, Barton, and Nguyen]{Reference2}
+Lemai Nguyen, Siew~Mee Barton, and Linh~Thuy Nguyen.
+\newblock Ipads in higher education—hype and hope.
+\newblock \emph{British Journal of Educational Technology}, 46\penalty0
+  (1):\penalty0 190--203, 2015.
 
 \bibitem[M{\"u}ller et~al.(2012)M{\"u}ller, Gove, and Webb]{Reference1}
 Hendrik M{\"u}ller, Jennifer Gove, and John Webb.
@@ -12,18 +66,42 @@ Hendrik M{\"u}ller, Jennifer Gove, and John Webb.
   Human-computer interaction with mobile devices and services}, pages 1--10.
   ACM, 2012.
 
-\bibitem[Nguyen et~al.(2015)Nguyen, Barton, and Nguyen]{Reference2}
-Lemai Nguyen, Siew~Mee Barton, and Linh~Thuy Nguyen.
-\newblock Ipads in higher education—hype and hope.
-\newblock \emph{British Journal of Educational Technology}, 46\penalty0
-  (1):\penalty0 190--203, 2015.
-
 \bibitem[Nations(2017)]{lifewire}
 Daniel Nations.
 \newblock How many ipad apps are in the app store?, 2017.
 \newblock URL
   \url{https://www.lifewire.com/how-many-ipad-apps-in-app-store-1994320}.
 \newblock [Online; accessed 10-May-2017].
+
+\bibitem[Martin et~al.(2014)Martin, Gardner, and Swift]{Reference19}
+Charles Martin, Henry Gardner, and Ben Swift.
+\newblock Exploring percussive gesture on ipads with ensemble metatone.
+\newblock In \emph{Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems}, pages 1025--1028. ACM, 2014.
+
+\bibitem[Stowell et~al.(2009)Stowell, Robertson, Bryan-Kinns, and
+  Plumbley]{Reference21}
+Dan Stowell, Andrew Robertson, Nick Bryan-Kinns, and Mark~D Plumbley.
+\newblock Evaluation of live human--computer music-making: Quantitative and
+  qualitative approaches.
+\newblock \emph{International Journal of Human-Computer Studies}, 67\penalty0
+  (11):\penalty0 960--975, 2009.
+
+\bibitem[Schmid(2015)]{Reference0}
+Gian-Marco Schmid.
+\newblock Evaluation of musical instruments from the musician’s perspective.
+\newblock 2015.
+
+\bibitem[Kell and Wanderley(2014)]{Reference14}
+Thor Kell and Marcelo~M Wanderley.
+\newblock A high-level review of mappings in musical ios applications.
+\newblock In \emph{ICMC}, 2014.
+
+\bibitem[Newton-Dunn et~al.(2003)Newton-Dunn, Nakano, and Gibson]{Reference20}
+Henry Newton-Dunn, Hiroaki Nakano, and James Gibson.
+\newblock Block jam: a tangible interface for interactive music.
+\newblock In \emph{Proceedings of the 2003 conference on New interfaces for
+  musical expression}, pages 170--177. National University of Singapore, 2003.
 
 \bibitem[Flores et~al.(2010)Flores, Miletto, Pimenta, Miranda, and
   Keller]{Reference4}
@@ -79,26 +157,10 @@ Ge~Wang.
 \newblock Ocarina: Designing the iphone's magic flute.
 \newblock \emph{Computer Music Journal}, 38\penalty0 (2):\penalty0 8--21, 2014.
 
-\bibitem[Wang(2009)]{Reference8}
-Ge~Wang.
-\newblock Designing smule’s iphone ocarina.
-\newblock In \emph{Proceedings of the International Conference on New
-  Interfaces for Musical Expression}, pages 303--307, 2009.
-
 \bibitem[Kell and Wanderley(2013)]{Reference13}
 Thor Kell and Marcelo~M Wanderley.
 \newblock A quantitative review of mappings in musical ios applications.
 \newblock In \emph{International Conference on Sound and Music Computing
   (SMC2013). http://tide-pool. ca/papers/Thor\% 20Kell}, 2013.
-
-\bibitem[Kell and Wanderley(2014)]{Reference14}
-Thor Kell and Marcelo~M Wanderley.
-\newblock A high-level review of mappings in musical ios applications.
-\newblock In \emph{ICMC}, 2014.
-
-\bibitem[Schmid(2015)]{Reference0}
-Gian-Marco Schmid.
-\newblock Evaluation of musical instruments from the musician’s perspective.
-\newblock 2015.
 
 \end{thebibliography}

@@ -1,4 +1,5 @@
 \chapter{Study 2: User Study}
+\label{ch: chapter 4}
 
 Following the first study (See Chapter \ref{ch: chapter 3}), A laboratory study was conducted to evaluate user experience on different design patterns of music sequencers. Base on the previous work of evaluating music instruments, a questionnaire was designed to measure muscians experience (See Section \ref{subsec: questionnaire}).
 
@@ -16,9 +17,7 @@ Base on \citeauthor{Reference0}'s work, which developed a 80-item pool ordered b
 \end{flushleft}
 \textit{EFP} as the predominent facet, mainly targets at evaluating the musicianship and expressivity of music instruments. For example, questions like\textit{\textquotedblleft{The instrument allows me to express myself.}\textquotedblright} are used to decide whether the instruments can let muscians to express themselves; \textit{PCC} is used to assess the controbility of the music instruments. Questions such as \textit{\textquotedblleft{I can control the sound appropriately.}\textquotedblright} are setted to identify how well the musicians believed they can control the instruments; \textit{PSSQA} is the most unique facet which analyses the quality of the instruments from the material, the sound and the apperience perspectives. For instance, questions like\textit{\textquotedblleft The instrument pleases me sound-wise\textquotedblright} test the sound quality of the instrument. The above three interrelated facets construct the framework of MPX-Q questionnaire.
 
-\begin{table}
-  \caption{Items in the questionnaire with thier factor and category(ordered by descending mean importance)}
-  \label{tab: questionnaire}
+\begin{table}[h]
 
   \begin{tabular}{ |p{1.2cm}|p{2.5cm}|p{9.2cm}|p{0.6cm}|}
    \multicolumn{4}{l}{} \\
@@ -39,7 +38,8 @@ Base on \citeauthor{Reference0}'s work, which developed a 80-item pool ordered b
    & Sound Quality & The instrument pleases me sound-wise & 6.02\\
    \hline
   \end{tabular}
-  % \small should be a caption
+  \caption[l]{Items in the questionnaire with thier factor and category(ordered by descending mean importance)}
+  \label{tab: questionnaire}
 \end{table}
 
 \bigskip
@@ -117,4 +117,59 @@ Same with the participants in Group One, musicians in this group thought \textit
 
 Most of the conversation was around \textit{Bearwave}. The implementation of multi-track assisted musicians to compose music by editing differet layers. What's more, with the management system to handle different sections of music, it helped musicians to extend the length of their works. Also, considering the appearence of the electronic instruments are becoming more colorful and shiny, the visual effect of \textit{Beatwave} made the interface more appealing compaing to the other two applications. However, there were demand on integrating synthesizer into \textit{Beatwave} so as to have more freedom on sound mixing. An alternative way proposed by one of the musicians was developed an input/output system, which potentially made the application more practical.
 
-The opinions on \textit{Volotic} in group three were more open companing with the other groups. Musicians in this group were tend to give credite for the innovation of \textit{Volotic}'s interface. Despite the fact that the name of symbols were unclear, they still believed they could made some interesting music with \textit{Volotic}.
+The opinions on \textit{Volotic} in group three were more open companing with the other groups. Musicians in this group were tend to give credite for the innovative design of \textit{Volotic}'s interface. Despite the fact that the name of symbols were unclear, they still believed they could make some interesting music with \textit{Volotic} if more time been given.
+
+\subsection{Discussion}
+
+From the statistic results extracted from the questionnaire, it is clear to say that the multi-track interface represented by \textit{Beatwave} is the most popular design among musicians. By contrast, the non-traditional interface represented by \textit{Volotic} received most of the nagative comments.
+
+Considering the factor each question belong to (see Table \ref{tab: questionnaire}), we can look in details of what specific aspect an interface good at. In Figure \ref{fig: EFP}, statistic result for questions belong to \textit{EFP} were grouped together. Apparently, \textit{Beatwave} was the best applcation to encourage musicians creativity. And \textit{Volotic} was slightly better than \textit{S.A.M.M.I} in this category. In enjoyment category, \textit{Beatwave} still gathered most of \textquotedblleft{Strong Agreement}\textquotedblright. But \textit{Volotic} was not that fun compaied with \textit{S.A.M.M.I}. For the expressiveness of the applications, \textit{Beatwave} and \textit{S.A.M.M.I} were quite similar, the only difference was musicians had stronger feeling on \textit{Beatwave}. However, opinions on \textit{Volotic} were equally distributed, it looked like musicians had a substential differences on whether the interface of \textit{Volotic} supported them to expressed themselves.
+
+\bigskip
+\begin{figure}
+\begin{minipage}[b]{0.5\textwidth}
+\includegraphics[width=\linewidth]{figs/Q1.pdf}
+\end{minipage}
+\begin{minipage}[b]{0.5\textwidth}
+\includegraphics[width=\linewidth]{figs/Q4.pdf}
+\end{minipage}
+
+% \hspace{\fill}
+
+\begin{minipage}[b]{0.5\textwidth}
+\includegraphics[width=\linewidth]{figs/Q5.pdf}
+\end{minipage}
+\begin{minipage}[b]{0.5\textwidth}
+\includegraphics[width=\linewidth]{figs/Q0.pdf}
+\end{minipage}
+
+\caption{Statistic results for questions belong to \textit{EFP}}
+\label{fig: EFP}
+\end{figure}
+\bigskip
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{ |p{2cm}|p{3.2cm}|p{3.2cm}|p{3.2cm}|}
+   \multicolumn{4}{l}{} \\
+   \hline
+   Types & EFP  & PCC  & PSSQA \\
+   \hline
+   Traditioanl & $\bullet$ can not fully express myself & $\bullet$ very easy to control & $\bullet$ the interface is dull\\
+   & $\bullet$ don't have too much options &  $\bullet$ intuitive design & $\bullet$ not appealling\\
+   & & &\\
+   \hline
+   Multi-track  & $\bullet$ inspire creativity & $\bullet$ not easy to get start & $\bullet$ the interface is awesome\\
+   & $\bullet$ a lot of options& $\bullet$ the layout can be confusing & $\bullet$ the visual  is very helpful\\
+   & & &\\
+   \hline
+   Novel & $\bullet$ inspire creativity in some degree & $\bullet$ very condusing & $\bullet$ it looks interesting\\
+   & $\bullet$ it's fun & $\bullet$ would be better with with an instruction & $\bullet$ the interface looks like a game\\
+
+   \hline
+  \end{tabular}
+  \caption[l]{Items in the questionnaire with thier factor and category(ordered by descending mean importance)}
+  \label{tab: suduko}
+\end{table}
+
+\bigskip

@@ -5,49 +5,49 @@ A level-1 auxiliary file: Appendices/AppendixA.aux
 A level-1 auxiliary file: Appendices/AppendixB.aux
 The style file: unsrtnat.bst
 Database file #1: Bibliography.bib
+Warning--empty journal in Reference0
 Warning--empty booktitle in Reference7
 Warning--empty year in Reference7
 Warning--empty year in Reference7
-Warning--empty journal in Reference0
-You've used 16 entries,
+You've used 26 entries,
             2481 wiz_defined-function locations,
-            654 strings with 7143 characters,
-and the built_in function-call counts, 6431 in all, are:
-= -- 568
-> -- 230
-< -- 19
-+ -- 98
-- -- 66
-* -- 390
-:= -- 932
-add.period$ -- 53
-call.type$ -- 16
-change.case$ -- 32
-chr.to.int$ -- 16
-cite$ -- 20
-duplicate$ -- 391
-empty$ -- 668
-format.name$ -- 88
-if$ -- 1459
+            719 strings with 8919 characters,
+and the built_in function-call counts, 11079 in all, are:
+= -- 1003
+> -- 414
+< -- 30
++ -- 170
+- -- 118
+* -- 705
+:= -- 1587
+add.period$ -- 87
+call.type$ -- 26
+change.case$ -- 52
+chr.to.int$ -- 26
+cite$ -- 30
+duplicate$ -- 648
+empty$ -- 1114
+format.name$ -- 158
+if$ -- 2521
 int.to.chr$ -- 1
-int.to.str$ -- 17
-missing$ -- 15
-newline$ -- 88
-num.names$ -- 48
-pop$ -- 190
+int.to.str$ -- 27
+missing$ -- 24
+newline$ -- 139
+num.names$ -- 78
+pop$ -- 295
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 26
 quote$ -- 0
-skip$ -- 245
+skip$ -- 426
 stack$ -- 0
-substring$ -- 270
-swap$ -- 100
-text.length$ -- 8
+substring$ -- 545
+swap$ -- 180
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 112
+type$ -- 182
 warning$ -- 4
-while$ -- 58
+while$ -- 102
 width$ -- 0
-write$ -- 212
+write$ -- 346
 (There were 4 warnings)
