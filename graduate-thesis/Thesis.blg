@@ -1,6 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Thesis.aux
+A level-1 auxiliary file: Appendices/Appendix.aux
 A level-1 auxiliary file: Appendices/AppendixA.aux
 A level-1 auxiliary file: Appendices/AppendixB.aux
 The style file: unsrtnat.bst
@@ -9,45 +10,45 @@ Warning--empty journal in Reference0
 Warning--empty booktitle in Reference7
 Warning--empty year in Reference7
 Warning--empty year in Reference7
-You've used 26 entries,
+You've used 31 entries,
             2481 wiz_defined-function locations,
-            719 strings with 8919 characters,
-and the built_in function-call counts, 11079 in all, are:
-= -- 1003
-> -- 414
-< -- 30
-+ -- 170
-- -- 118
-* -- 705
-:= -- 1587
-add.period$ -- 87
-call.type$ -- 26
-change.case$ -- 52
-chr.to.int$ -- 26
-cite$ -- 30
-duplicate$ -- 648
-empty$ -- 1114
-format.name$ -- 158
-if$ -- 2521
+            749 strings with 9974 characters,
+and the built_in function-call counts, 13416 in all, are:
+= -- 1205
+> -- 523
+< -- 36
++ -- 212
+- -- 150
+* -- 869
+:= -- 1925
+add.period$ -- 103
+call.type$ -- 31
+change.case$ -- 62
+chr.to.int$ -- 31
+cite$ -- 35
+duplicate$ -- 780
+empty$ -- 1338
+format.name$ -- 197
+if$ -- 3048
 int.to.chr$ -- 1
-int.to.str$ -- 27
-missing$ -- 24
-newline$ -- 139
-num.names$ -- 78
-pop$ -- 295
+int.to.str$ -- 32
+missing$ -- 29
+newline$ -- 164
+num.names$ -- 93
+pop$ -- 350
 preamble$ -- 1
-purify$ -- 26
+purify$ -- 31
 quote$ -- 0
-skip$ -- 426
+skip$ -- 514
 stack$ -- 0
-substring$ -- 545
-swap$ -- 180
-text.length$ -- 14
+substring$ -- 662
+swap$ -- 220
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 182
+type$ -- 217
 warning$ -- 4
-while$ -- 102
+while$ -- 123
 width$ -- 0
-write$ -- 346
+write$ -- 412
 (There were 4 warnings)

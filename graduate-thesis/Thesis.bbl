@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -162,5 +162,39 @@ Thor Kell and Marcelo~M Wanderley.
 \newblock A quantitative review of mappings in musical ios applications.
 \newblock In \emph{International Conference on Sound and Music Computing
   (SMC2013). http://tide-pool. ca/papers/Thor\% 20Kell}, 2013.
+
+\bibitem[Stowell et~al.(2008)Stowell, Plumbley, and Bryan-Kinns]{Reference25}
+Dan Stowell, Mark~D Plumbley, and Nick Bryan-Kinns.
+\newblock Discourse analysis evaluation method for expressive musical
+  interfaces.
+\newblock In \emph{NIME}, pages 81--86, 2008.
+
+\bibitem[O'modhrain(2011)]{Reference22}
+Sile O'modhrain.
+\newblock A framework for the evaluation of digital musical instruments.
+\newblock \emph{Computer Music Journal}, 35\penalty0 (1):\penalty0 28--42,
+  2011.
+
+\bibitem[Barbosa et~al.(2011)Barbosa, Calegario, Magalh{\~a}es, Teichrieb,
+  Ramalho, and Cabral]{Reference23}
+Jer{\^o}nimo Barbosa, Filipe Calegario, Francisco Magalh{\~a}es, V~Teichrieb,
+  G~Ramalho, and G~Cabral.
+\newblock Towards an evaluation methodology for digital music instruments
+  considering performer’s view: a case study.
+\newblock In \emph{Proceedings of 13th Brazilian Symposium on Computer Music},
+  2011.
+
+\bibitem[Jord{\`a} and Mealla(2014)]{Reference24}
+Sergi Jord{\`a} and Sebasti{\'a}n Mealla.
+\newblock A methodological framework for teaching, evaluating and informing
+  nime design with a focus on expressiveness and mapping.
+\newblock In \emph{NIME}, volume~14, pages 233--238, 2014.
+
+\bibitem[Barbosa et~al.(2015)Barbosa, Malloch, Wanderley, and
+  Huot]{Reference26}
+Jeronimo Barbosa, Joseph Malloch, Marcelo~M Wanderley, and St{\'e}phane Huot.
+\newblock What does" evaluation" mean for the nime community?
+\newblock In \emph{NIME 2015-15th International Conference on New Interfaces
+  for Musical Expression}, pages 156--161. Louisiana State University, 2015.
 
 \end{thebibliography}
