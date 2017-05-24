@@ -2,27 +2,28 @@
 \rhead{\thepage}
 \lhead{Introduction}
 \chapter{Introduction}
+% Add some introduction on sequencer
+Music sequencer, as an instrument, has been studied by musicians for a long time. In section \ref{subsec: history} the development of sequencer was introduced.
 
-With the rapid development of digital audio technolodge, people start to find out that computers are playing an increasingly important role in music. This new trend is providing unprecedented opportunities for people to create and manipulate sound. However, the flexibility of the digital technolodge is accompanied by confuse and uncertainty. As a result, thousands of new musicial forms built on computers have been created and released to the world. And it is natural to ask, what kinds of musical interfaces are taking better advantage of computers. To answer this question, researchers targeting at the better establised field of human-computer interaction \citep{Reference16}. Under the circumstance of new musical form explosion, a new community called NIME was born (see \ref{subsec: nime}).
+With the rapid development of digital audio technology, computers are playing an increasingly important role in music, and providing unprecedented opportunities for people to create and manipulate sound. The iPad, a portable computer with touch screen, provides a new platform for musicians to express themselves (see section \ref{subsec: iPad}).
 
+Since thousands of new musicial interfaces built on computers have been created and released to the world, it is natural to ask, what kinds of musical interfaces are taking better advantage of computers? To answer this question, a new community called NIME emergeed from the establised field of human-computer interaction (HCI) \citep{Reference16}. And in NIME, the evaluation of musical interface is mainly focused on expressivity, control and aethetic three aspects \citep{Reference0}. 
+
+% Talk anout creativity, control and aethetics....
 \section{Background}
 \label{sec: backgound}
 
-\subsection{The development of NIME}
-\label{subsec: nime}
-% what is NIME and it's development
-The New Interface for Musical Expression (NIME) is an international conference for musicians and researchers from all over the world to demonstrate their latest work on musical interface design \citep{Reference15}. It first started as a workshop at the Conference on Human Factors in Computing System (CHI) in 2001. After that, annually conferences have been held around the world. The hoster are research groups who devote themselves to interface design, human-computer interaction and computer music. The latest conference was held at Griffith University in Brisbane, Queensland, Australia in 2016.
+\subsection{Development of Music Sequencer}
+\label{subsec: history}
+By modern definition, a music sequencer (or sequencer) is a hardware device or software application which can handle music materials such as notes, sounds and many other forms of performance information. It is widely used in performing electronic music, and used as a processing tool in music composing. The history of music sequencer can refer to 9th century, the earlier sequencers worked as sound producing devices and depended on the preset inputs. A famous example of early stage music sequencer is player piano, a self-playing piano which play the music pre-recorded on a piano roll. When the technology matured, more forms of sequencer emerged. Analog sequencer which took advantage of analog eletronics was the first sequencer designed to live performance except music composition. Step sequencer, also known as drum machine, distriputed the note into steps with equal time-interval, which free musicians from acurately timing of each note.
 
-In the last sixteen years, NIME has explored different approaches on new musical interface design. The \textit{reacTable} which was designed for live music performance on tabletop led a new trend on tangible music interface \citep{Reference17}. Many researchers shifted their attention to this new media. Toolkit such as reacTiVision was developed to detect movement of performers and allow further development to turn any surface into a musical instrument \citep{Reference18}.
-
-The success of \textit{Smule} initiated a new era of mobile music \citep{Reference8}. After that, thousands of musical applications such as \textit{MoMu, MadPad and Magic Fiddle} which were specifically designed for mobile devices were developed \citep{Reference8.2,Reference8.3,Reference8.4}.
-
-
+In morden times, digital sequencer implemented on computers become popular. The advent of Musical Instrument Digital Interface (MIDI) made the digital sequencer with great vitality. In recent years, the popularity of mobile devices brought music sequencers to a new platform and many new elements have been put into practice.
 
 \subsection{iPad: a new playground for musicians}
+\label{subsec: iPad}
 % we will first brefly introduce the ipad, and then illustrate the strength of ipad. also the reason why we major investigate on ipad
 
-The iPad, a tablet computer with touchscreen display, has quickly occupied the market all around world since it's first release in 2010 \citep{Reference2}. The emergence of iPad have provided a new platform for users to explore digital world \citep{Reference1}. After 7 generations, the usage of iPad has shifted from the extension of iPhone to a powerful pruductivity tool. In this shift, thousands of applications which was designed to utilise the larger touch screen has emerged. According to Daniel, there are over 1.5 million apps are currently hosted in the App Store and more than half of those apps are specifically designed for iPad \citep{lifewire}.
+The iPad, a tablet computer with touchscreen display, has quickly occupied the market all around world since it's first release in 2010 \citep{Reference2}. The emergence of iPad have provided a new platform for users to explore digital world \citep{Reference1}. After 7 generations, the usage of iPad has shifted from the extension of iPhone to a powerful pruductivity tool. In this shift, thousands of applications which was designed to utilise the larger touch screen has emerged. According to \citeauthor{lifewire}, there are over 1.5 million apps are currently hosted in the App Store and more than half of those apps are specifically designed for iPad \citep{lifewire}.
 
 Since the first release of iPad, there are practices to utilise the large tangible screen and wide variety of sensors of this cross-time product. \citeauthor{Reference8.4} designed \textit{Magic Fiddle}, a new musical instrument, which combined the physical gesture of users and graphical display of iPad together. \citeauthor{Reference19} explored the possibility of using iPad as a percussive instrument and used iPad's network feature to ecourage cohesive improvisation \citep{Reference19}.
 
@@ -41,14 +42,15 @@ Unexpectedly, music sequencers as the top three most popular instruments in iOS 
 \end{figure}
 \bigskip
 
-\section{Research goals and motivation}
+\section{Research motivation and goals}
 
-While musical interfaces have been studied for a long time, there have emerged thousands of novel twists on \textquotedblleft{grid-based}\textquotedblright music sequencer. And to our knowledge there is currently no paper investigate the situation of this certain kind of musical application on App Store. What's more, there is no consensus on using what's method to evaluate those newborn musical application on mobile devices. This work is a first attempt to classify the music sequencers on iPad and adopt the evaluation method(MPX-Q Questionnaire) designed for NIME community. This work is guided by the following goals:
+While musical interfaces have been studied for a long time, there have emerged thousands of novel twists on \textquotedblleft{grid-based}\textquotedblright music sequencer. And to our knowledge there is currently no paper investigate the situation of this certain kind of musical application on App Store. What's more, there is no consensus on using what's method to evaluate those newborn musical application on mobile devices. This work is a first attempt to classify the music sequencers on iPad and adopt the evaluation method(MPX-Q Questionnaire) designed for NIME community. The goal of this thesis is to evaluate touch-based music sequencer apps on iPad by:
 \begin{flushleft}
-$\bullet$ Create an interface taxonomy of current music sequencer apps on the iOS app store.\\
-$\bullet$ Perform a HCI user study to measure user experience and musicians performance with different interface design approaches.\\
-$\bullet$ Propose design guidlines for musicians, developers and researcher for creating musical interface in the future.
+$\bullet$ Creating an interface taxonomy of current music sequencer apps on the iOS app store.\\
+$\bullet$ Performing a HCI user study to measure user experience and musicians performance with different interface design approaches.\\
+$\bullet$ Proposing design guidlines for musicians, developers and researcher for creating musical interface in the future.
 \end{flushleft}
-\section{Structure}
+
+\section{Thesis structure}
 
 In the next chapter, literature relevant to the research topic was introduced, so as to establish a theoretical framework of the research (see Chapter \ref{ch: chapter 2}). And the research project was divided into two consecutive studies. In the first study, we analyzed the music sequencer applications (designed for iPad) on App Store and create an interface taxonomy (see Chapter \ref{ch: chapter 3}). Then base on the classification of music sequencer interfaces, we selected one most representative application from each category and conducted an user study to evlauate the effect of different interface design (see Chapter \ref{ch: chapter 4}). In Chapter \ref{ch: chapter 5}, we discussed the results and provided a conclusion of the study as well as the future work.
