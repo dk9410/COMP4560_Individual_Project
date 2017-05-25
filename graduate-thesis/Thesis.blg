@@ -10,45 +10,45 @@ Warning--empty journal in Reference0
 Warning--empty booktitle in Reference7
 Warning--empty year in Reference7
 Warning--empty year in Reference7
-You've used 31 entries,
+You've used 34 entries,
             2481 wiz_defined-function locations,
-            749 strings with 9974 characters,
-and the built_in function-call counts, 13416 in all, are:
-= -- 1205
-> -- 523
-< -- 36
-+ -- 212
-- -- 150
-* -- 869
-:= -- 1925
-add.period$ -- 103
-call.type$ -- 31
-change.case$ -- 62
-chr.to.int$ -- 31
-cite$ -- 35
-duplicate$ -- 780
-empty$ -- 1338
-format.name$ -- 197
-if$ -- 3048
+            771 strings with 10747 characters,
+and the built_in function-call counts, 14616 in all, are:
+= -- 1322
+> -- 572
+< -- 39
++ -- 232
+- -- 164
+* -- 952
+:= -- 2110
+add.period$ -- 118
+call.type$ -- 34
+change.case$ -- 68
+chr.to.int$ -- 34
+cite$ -- 38
+duplicate$ -- 843
+empty$ -- 1445
+format.name$ -- 216
+if$ -- 3316
 int.to.chr$ -- 1
-int.to.str$ -- 32
-missing$ -- 29
-newline$ -- 164
-num.names$ -- 93
-pop$ -- 350
+int.to.str$ -- 35
+missing$ -- 31
+newline$ -- 184
+num.names$ -- 102
+pop$ -- 375
 preamble$ -- 1
-purify$ -- 31
+purify$ -- 34
 quote$ -- 0
-skip$ -- 514
+skip$ -- 558
 stack$ -- 0
-substring$ -- 662
-swap$ -- 220
-text.length$ -- 18
+substring$ -- 700
+swap$ -- 237
+text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 217
+type$ -- 238
 warning$ -- 4
-while$ -- 123
+while$ -- 132
 width$ -- 0
-write$ -- 412
+write$ -- 462
 (There were 4 warnings)

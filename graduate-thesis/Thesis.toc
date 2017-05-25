@@ -9,37 +9,40 @@
 \contentsline {chapter}{Abbreviations}{ix}{dummy.9}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.12}
 \contentsline {section}{\numberline {1.1}Background}{1}{section.13}
-\contentsline {subsection}{\numberline {1.1.1}The development of NIME}{1}{subsection.14}
+\contentsline {subsection}{\numberline {1.1.1}Development of Music Sequencer}{1}{subsection.14}
 \contentsline {subsection}{\numberline {1.1.2}iPad: a new playground for musicians}{2}{subsection.15}
 \contentsline {section}{\numberline {1.2}Related Work}{3}{section.16}
-\contentsline {section}{\numberline {1.3}Research goals and motivation}{3}{section.18}
-\contentsline {section}{\numberline {1.4}Structure}{4}{section.19}
+\contentsline {section}{\numberline {1.3}Research motivation and goals}{3}{section.18}
+\contentsline {section}{\numberline {1.4}Thesis structure}{4}{section.19}
 \contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.20}
-\contentsline {section}{\numberline {2.1}Mobile Music}{5}{section.21}
-\contentsline {section}{\numberline {2.2}Musical Interaction Patterns}{6}{section.22}
-\contentsline {section}{\numberline {2.3}Evaluation of digital musical instruments}{6}{section.23}
-\contentsline {chapter}{\numberline {3}Study 1: Classification of music sequencer}{8}{chapter.24}
-\contentsline {section}{\numberline {3.1}Method}{8}{section.25}
-\contentsline {subsection}{\numberline {3.1.1}Search Criteria}{9}{subsection.26}
-\contentsline {subsection}{\numberline {3.1.2}Classification criteria}{9}{subsection.27}
-\contentsline {section}{\numberline {3.2}Results}{13}{section.33}
+\contentsline {section}{\numberline {2.1}The development of NIME}{5}{section.21}
+\contentsline {section}{\numberline {2.2}Mobile Music}{6}{section.22}
+\contentsline {section}{\numberline {2.3}Musical Interaction Patterns and Sequencer}{7}{section.23}
+\contentsline {section}{\numberline {2.4}Evaluation of digital musical instruments}{7}{section.24}
+\contentsline {chapter}{\numberline {3}Study 1: Classification of music sequencer}{9}{chapter.25}
+\contentsline {section}{\numberline {3.1}Method}{9}{section.26}
+\contentsline {subsection}{\numberline {3.1.1}Search Criteria}{9}{subsection.27}
+\contentsline {subsection}{\numberline {3.1.2}Classification criteria}{10}{subsection.28}
+\contentsline {section}{\numberline {3.2}Results}{15}{section.34}
 \contentsline {chapter}{\numberline {4}Study 2: User Study}{17}{chapter.38}
 \contentsline {section}{\numberline {4.1}Method}{17}{section.39}
-\contentsline {subsection}{\numberline {4.1.1}Questionnaire}{17}{subsection.40}
-\contentsline {subsection}{\numberline {4.1.2}Participants}{19}{subsection.42}
-\contentsline {subsection}{\numberline {4.1.3}Interview}{20}{subsection.44}
-\contentsline {section}{\numberline {4.2}Results}{20}{section.45}
-\contentsline {subsection}{\numberline {4.2.1}Quantitative Results}{20}{subsection.46}
-\contentsline {subsection}{\numberline {4.2.2}Qualitative Results}{21}{subsection.49}
-\contentsline {subsection}{\numberline {4.2.3}Discussion}{25}{subsection.50}
-\contentsline {chapter}{\numberline {5}Conclusion}{27}{chapter.53}
-\contentsline {section}{\numberline {5.1}Summary}{27}{section.54}
-\contentsline {section}{\numberline {5.2}Limitation}{28}{section.55}
-\contentsline {section}{\numberline {5.3}Future Work}{28}{section.56}
-\contentsline {chapter}{\numberline {A}Independent Study Contract}{29}{appendix.57}
+\contentsline {subsection}{\numberline {4.1.1}Representative Sequencer Applications}{17}{subsection.40}
+\contentsline {subsection}{\numberline {4.1.2}Questionnaire}{18}{subsection.41}
+\contentsline {subsection}{\numberline {4.1.3}Participants}{19}{subsection.43}
+\contentsline {section}{\numberline {4.2}User Study Process}{19}{section.45}
+\contentsline {subsection}{\numberline {4.2.1}Apps try-on}{20}{subsection.46}
+\contentsline {subsection}{\numberline {4.2.2}Interview}{20}{subsection.47}
+\contentsline {section}{\numberline {4.3}Results}{20}{section.48}
+\contentsline {subsection}{\numberline {4.3.1}Quantitative Results}{21}{subsection.49}
+\contentsline {subsection}{\numberline {4.3.2}Qualitative Results}{22}{subsection.51}
+\contentsline {subsection}{\numberline {4.3.3}Discussion}{22}{subsection.53}
+\contentsline {chapter}{\numberline {5}Conclusion}{24}{chapter.55}
+\contentsline {section}{\numberline {5.1}Limitation and Future Work}{25}{section.56}
+\contentsline {chapter}{\numberline {A}Independent Study Contract}{26}{appendix.57}
 \vspace {2em}
-\contentsline {chapter}{\numberline {B}App Store Music Sequencer Applications}{32}{appendix.58}
-\contentsline {chapter}{\numberline {C}Questionnaire}{37}{appendix.59}
-\contentsline {chapter}{\numberline {D}Interview Questions}{40}{appendix.60}
+\contentsline {chapter}{\numberline {B}App Store Music Sequencer Applications}{29}{appendix.58}
+\contentsline {chapter}{\numberline {C}Questionnaire}{34}{appendix.59}
+\contentsline {chapter}{\numberline {D}Interview Questions}{37}{appendix.60}
+\contentsline {chapter}{\numberline {E}Questionnaire Data}{39}{appendix.61}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{42}{dummy.61}
+\contentsline {chapter}{Bibliography}{41}{dummy.62}

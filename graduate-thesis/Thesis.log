@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.23)  24 MAY 2017 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.23)  25 MAY 2017 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,34 +468,67 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count136
 \LT@p@ftn=\toks29
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen150
+\extrarowheight=\dimen151
+\NC@list=\toks30
+\extratabsurround=\skip71
+\backup@length=\skip72
+)
+\everycr=\toks31
+\minrowclearance=\skip73
+)
+\rownum=\count137
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip71
-\bibsep=\skip72
+\bibhang=\skip74
+\bibsep=\skip75
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count137
+\c@NAT@ctr=\count138
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks30
-\verbatim@line=\toks31
+\every@verbatim=\toks32
+\verbatim@line=\toks33
 \verbatim@in@stream=\read1
 ) (./vector.sty
 Package: vector 1994/09/16 v1.0 vector macros for LaTeX2e (nde)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count138
-\calc@Bcount=\count139
-\calc@Adimen=\dimen150
-\calc@Bdimen=\dimen151
-\calc@Askip=\skip73
-\calc@Bskip=\skip74
+\calc@Acount=\count139
+\calc@Bcount=\count140
+\calc@Adimen=\dimen152
+\calc@Bdimen=\dimen153
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count140
-\calc@Cskip=\skip75
+\calc@Ccount=\count141
+\calc@Cskip=\skip78
 )
-\c@vec@elem=\count141
+\c@vec@elem=\count142
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 
@@ -513,56 +546,128 @@ Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-))
-\AM@pagewidth=\dimen152
-\AM@pageheight=\dimen153
+\AM@pagewidth=\dimen154
+\AM@pageheight=\dimen155
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box35
-\AM@global@opts=\toks32
-\AM@toc@title=\toks33
-\c@AM@survey=\count142
+\AM@global@opts=\toks34
+\AM@toc@title=\toks35
+\c@AM@survey=\count143
 \AM@templatesizebox=\box36
 )
-(./Thesis.aux (./Appendices/Appendix.aux) (./Appendices/AppendixA.aux)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) (./Thesis.aux
+(./Appendices/Appendix.aux) (./Appendices/AppendixA.aux)
 (./Appendices/AppendixB.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 23.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -577,32 +682,32 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count143
-\scratchdimen=\dimen154
+\scratchcounter=\count144
+\scratchdimen=\dimen156
 \scratchbox=\box37
-\nofMPsegments=\count144
-\nofMParguments=\count145
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count146
-\MPscratchDim=\dimen155
-\MPnumerator=\count147
-\makeMPintoPDFobject=\count148
-\everyMPtoPDFconversion=\toks35
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen157
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks37
 )
-\c@lstlisting=\count149
+\c@lstlisting=\count150
 \AtBeginShipoutBox=\box38
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 23.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count150
+\c@section@level=\count151
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
 
 (./Thesis.out) (./Thesis.out)
 \@outlinefile=\write3
@@ -628,16 +733,16 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ------------------------------------------------------------------------------
  Declaration of Authorship
 ------------------------------------------------------------------------------
-LaTeX Font Info:    Try loading font information for U+msa on input line 76.
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 76.
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 
  []
 
@@ -707,11 +812,11 @@ Chapter 1.
 
 
 
-] [2] <images/blockjam.jpg, id=354, 803.0pt x 602.25pt>
+] [2] <images/blockjam.jpg, id=350, 803.0pt x 602.25pt>
 File: images/blockjam.jpg Graphic file (type jpg)
 
 <use images/blockjam.jpg>
-Package pdftex.def Info: images/blockjam.jpg used on input line 37.
+Package pdftex.def Info: images/blockjam.jpg used on input line 38.
 (pdftex.def)             Requested size: 341.43306pt x 256.07692pt.
  [3 <./images/blockjam.jpg>]) (./Chapters/Chapter2.tex [4]
 Chapter 2.
@@ -720,127 +825,107 @@ Chapter 2.
 ------------------------------------------------------------------------------
 [5
 
-] [6] [7]) (./Chapters/Chapter3.tex
+] [6] [7] [8]) (./Chapters/Chapter3.tex
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Study 1: Classification of music sequencer
 ------------------------------------------------------------------------------
-[8
+
+LaTeX Warning: Reference `sec: result' on page 9 undefined on input line 7.
+
+[9
 
 
-] <images/Beatwave.PNG, id=459, 2055.68pt x 1541.76pt>
+] <images/Beatwave.PNG, id=485, 2055.68pt x 1541.76pt>
 File: images/Beatwave.PNG Graphic file (type png)
 
 <use images/Beatwave.PNG>
-Package pdftex.def Info: images/Beatwave.PNG used on input line 28.
+Package pdftex.def Info: images/Beatwave.PNG used on input line 29.
 (pdftex.def)             Requested size: 341.43306pt x 256.07324pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/SoundZen.PNG, id=461, 2055.68pt x 1541.76pt>
+<images/SoundZen.PNG, id=487, 2055.68pt x 1541.76pt>
 File: images/SoundZen.PNG Graphic file (type png)
  <use images/SoundZen.PNG>
-Package pdftex.def Info: images/SoundZen.PNG used on input line 39.
+Package pdftex.def Info: images/SoundZen.PNG used on input line 40.
 (pdftex.def)             Requested size: 341.43306pt x 256.07324pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] [10 <./images/Beatwave.PNG> <./images/SoundZen.PNG>]
-<images/CSketch_Lite.PNG, id=475, 2055.68pt x 1541.76pt>
+[10] [11 <./images/Beatwave.PNG> <./images/SoundZen.PNG>]
+<images/CSketch_Lite.PNG, id=500, 2055.68pt x 1541.76pt>
 File: images/CSketch_Lite.PNG Graphic file (type png)
 
 <use images/CSketch_Lite.PNG>
-Package pdftex.def Info: images/CSketch_Lite.PNG used on input line 54.
+Package pdftex.def Info: images/CSketch_Lite.PNG used on input line 55.
 (pdftex.def)             Requested size: 341.43306pt x 256.07324pt.
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¨ in font cmr10!
- [11 <./images/CSketch_Lite.PNG>]
-<images/Orbita.PNG, id=493, 2055.68pt x 1541.76pt>
+ [12 <./images/CSketch_Lite.PNG>]
+<images/Orbita.PNG, id=511, 2055.68pt x 1541.76pt>
 File: images/Orbita.PNG Graphic file (type png)
  <use images/Orbita.PNG>
-Package pdftex.def Info: images/Orbita.PNG used on input line 73.
+Package pdftex.def Info: images/Orbita.PNG used on input line 68.
 (pdftex.def)             Requested size: 341.43306pt x 256.07324pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12] <images/Volotic.PNG, id=498, 2055.68pt x 1541.76pt>
+[13 <./images/Orbita.PNG>] <images/Volotic.PNG, id=522, 2055.68pt x 1541.76pt>
 File: images/Volotic.PNG Graphic file (type png)
 
 <use images/Volotic.PNG>
-Package pdftex.def Info: images/Volotic.PNG used on input line 84.
+Package pdftex.def Info: images/Volotic.PNG used on input line 81.
 (pdftex.def)             Requested size: 341.43306pt x 256.07324pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/Template.png, id=499, 1118.1775pt x 626.34pt>
-File: images/Template.png Graphic file (type png)
-
-<use images/Template.png>
-Package pdftex.def Info: images/Template.png used on input line 98.
-(pdftex.def)             Requested size: 417.47307pt x 233.84474pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/Novel.png, id=500, 1094.0875pt x 1078.0275pt>
+ [14 <./images/Volotic.PNG>]
+<images/Novel.png, id=531, 1094.0875pt x 1078.0275pt>
 File: images/Novel.png Graphic file (type png)
  <use images/Novel.png>
-Package pdftex.def Info: images/Novel.png used on input line 107.
+Package pdftex.def Info: images/Novel.png used on input line 103.
 (pdftex.def)             Requested size: 208.73653pt x 205.66626pt.
 
+<images/Traditional1.png, id=533, 1097.09875pt x 1090.0725pt>
+File: images/Traditional1.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use images/Traditional1.png>
+Package pdftex.def Info: images/Traditional1.png used on input line 114.
+(pdftex.def)             Requested size: 208.73653pt x 207.39868pt.
 
-<images/Multi-track2.png, id=501, 1095.09125pt x 1081.03876pt>
-File: images/Multi-track2.png Graphic file (type png)
+<images/Traditional2.png, id=534, 1092.08pt x 1092.08pt>
+File: images/Traditional2.png Graphic file (type png)
 
-<use images/Multi-track2.png>
-Package pdftex.def Info: images/Multi-track2.png used on input line 116.
-(pdftex.def)             Requested size: 210.82593pt x 208.12122pt.
+<use images/Traditional2.png>
+Package pdftex.def Info: images/Traditional2.png used on input line 115.
+(pdftex.def)             Requested size: 208.73653pt x 208.73047pt.
 
-<images/Multi-track1.png, id=502, 1092.08pt x 1099.10625pt>
-File: images/Multi-track1.png Graphic file (type png)
-
-<use images/Multi-track1.png>
-Package pdftex.def Info: images/Multi-track1.png used on input line 117.
-(pdftex.def)             Requested size: 206.64713pt x 207.97704pt.
-
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 116--118
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 114--116
 [][] [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Traditional1.png, id=503, 1097.09875pt x 1090.0725pt>
-File: images/Traditional1.png Graphic file (type png)
+[15 <./images/Novel.png>]
+<images/Multi-track2.png, id=541, 1095.09125pt x 1081.03876pt>
+File: images/Multi-track2.png Graphic file (type png)
 
-<use images/Traditional1.png>
-Package pdftex.def Info: images/Traditional1.png used on input line 125.
-(pdftex.def)             Requested size: 208.73653pt x 207.39868pt.
+<use images/Multi-track2.png>
+Package pdftex.def Info: images/Multi-track2.png used on input line 125.
+(pdftex.def)             Requested size: 210.82593pt x 208.12122pt.
 
-<images/Traditional2.png, id=504, 1092.08pt x 1092.08pt>
-File: images/Traditional2.png Graphic file (type png)
+<images/Multi-track1.png, id=542, 1092.08pt x 1099.10625pt>
+File: images/Multi-track1.png Graphic file (type png)
 
-<use images/Traditional2.png>
-Package pdftex.def Info: images/Traditional2.png used on input line 126.
-(pdftex.def)             Requested size: 208.73653pt x 208.73047pt.
+<use images/Multi-track1.png>
+Package pdftex.def Info: images/Multi-track1.png used on input line 126.
+(pdftex.def)             Requested size: 206.64713pt x 207.97704pt.
 
 Overfull \hbox (2.43332pt too wide) in paragraph at lines 125--127
 [][] [] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[13 <./images/Orbita.PNG>] [14 <./images/Volotic.PNG> <./images/Template.png>]
-[15 <./images/Novel.png> <./images/Multi-track2.png> <./images/Multi-track1.png
->] [16 <./images/Traditional1.png> <./images/Traditional2.png>])
-(./Chapters/Chapter4.tex
+[16 <./images/Traditional1.png> <./images/Traditional2.png> <./images/Multi-tra
+ck2.png> <./images/Multi-track1.png>]) (./Chapters/Chapter4.tex
 Chapter 4.
 ------------------------------------------------------------------------------
  4 Study 2: User Study
@@ -849,174 +934,129 @@ Chapter 4.
 
 
 ]
-Overfull \hbox (2.39487pt too wide) in paragraph at lines 30--31
-[]\OT1/cmr/m/n/10.95 6.25| 
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 28--29
+[]|\OT1/cmr/m/n/10.95 6.25| 
  []
 
 
-Overfull \hbox (2.39487pt too wide) in paragraph at lines 31--32
-[]\OT1/cmr/m/n/10.95 6.08| 
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 29--30
+[]|\OT1/cmr/m/n/10.95 6.08| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 30--31
+[]|\OT1/cmr/m/n/10.95 6.06| 
  []
 
 
 Overfull \hbox (2.39487pt too wide) in paragraph at lines 32--33
-[]\OT1/cmr/m/n/10.95 6.06| 
+[]|\OT1/cmr/m/n/10.95 6.23| 
+ []
+
+
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 33--34
+[]|\OT1/cmr/m/n/10.95 6.04| 
  []
 
 
 Overfull \hbox (2.39487pt too wide) in paragraph at lines 34--35
-[]\OT1/cmr/m/n/10.95 6.23| 
+[]|\OT1/cmr/m/n/10.95 5.98| 
  []
 
 
 Overfull \hbox (2.39487pt too wide) in paragraph at lines 35--36
-[]\OT1/cmr/m/n/10.95 6.04| 
+[]|\OT1/cmr/m/n/10.95 5.79| 
  []
 
 
 Overfull \hbox (2.39487pt too wide) in paragraph at lines 36--37
-[]\OT1/cmr/m/n/10.95 5.98| 
+[]|\OT1/cmr/m/n/10.95 5.85| 
  []
 
 
-Overfull \hbox (2.39487pt too wide) in paragraph at lines 37--38
-[]\OT1/cmr/m/n/10.95 5.79| 
+Overfull \hbox (2.20476pt too wide) in paragraph at lines 38--38
+[]|\OT1/cmr/m/n/10.95 PSSQA| 
  []
 
 
 Overfull \hbox (2.39487pt too wide) in paragraph at lines 38--39
-[]\OT1/cmr/m/n/10.95 5.85| 
+[]|\OT1/cmr/m/n/10.95 6.21| 
  []
 
 
-Overfull \hbox (2.20476pt too wide) in paragraph at lines 40--40
-[]\OT1/cmr/m/n/10.95 PSSQA| 
+Overfull \hbox (2.39487pt too wide) in paragraph at lines 39--40
+[]|\OT1/cmr/m/n/10.95 6.02| 
  []
 
 
-Overfull \hbox (2.39487pt too wide) in paragraph at lines 40--41
-[]\OT1/cmr/m/n/10.95 6.21| 
- []
-
-
-Overfull \hbox (2.39487pt too wide) in paragraph at lines 41--42
-[]\OT1/cmr/m/n/10.95 6.02| 
- []
-
-
-Overfull \hbox (14.63911pt too wide) in paragraph at lines 25--44
+Overfull \hbox (16.63908pt too wide) in paragraph at lines 23--42
 [][] 
  []
 
-[18] <images/Participant.jpg, id=538, 3035.34pt x 4047.12pt>
+[18] <images/Participant.jpg, id=563, 3035.34pt x 4047.12pt>
 File: images/Participant.jpg Graphic file (type jpg)
 
 <use images/Participant.jpg>
-Package pdftex.def Info: images/Participant.jpg used on input line 58.
+Package pdftex.def Info: images/Participant.jpg used on input line 54.
 (pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
 
-<images/Participant2.jpg, id=539, 3035.34pt x 4047.12pt>
+<images/Participant2.jpg, id=564, 3035.34pt x 4047.12pt>
 File: images/Participant2.jpg Graphic file (type jpg)
 
 <use images/Participant2.jpg>
-Package pdftex.def Info: images/Participant2.jpg used on input line 59.
+Package pdftex.def Info: images/Participant2.jpg used on input line 55.
 (pdftex.def)             Requested size: 170.71652pt x 227.56348pt.
- [19 <./images/Participant.jpg> <./images/Participant2.jpg>]
-<images/questionnaire-responses.pdf, id=545, 627.34375pt x 332.24126pt>
-File: images/questionnaire-responses.pdf Graphic file (type pdf)
-
-<use images/questionnaire-responses.pdf>
-Package pdftex.def Info: images/questionnaire-responses.pdf used on input line 
-83.
-(pdftex.def)             Requested size: 417.47307pt x 221.09987pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[20] <images/Beatwave.pdf, id=551, 1011.78pt x 433.62pt>
+ [19 <./images/Participant.jpg> <./images/Participant2.jpg>] [20] <images/Beatw
+ave.pdf, id=579, 1011.78pt x 433.62pt>
 File: images/Beatwave.pdf Graphic file (type pdf)
 
 <use images/Beatwave.pdf>
-Package pdftex.def Info: images/Beatwave.pdf used on input line 93.
+Package pdftex.def Info: images/Beatwave.pdf used on input line 88.
 (pdftex.def)             Requested size: 417.47307pt x 178.91676pt.
- <images/Volotic.pdf, id=552, 1011.78pt x 433.62pt>
+ <images/Volotic.pdf, id=580, 1011.78pt x 433.62pt>
 File: images/Volotic.pdf Graphic file (type pdf)
 
 <use images/Volotic.pdf>
-Package pdftex.def Info: images/Volotic.pdf used on input line 94.
+Package pdftex.def Info: images/Volotic.pdf used on input line 89.
 (pdftex.def)             Requested size: 417.47307pt x 178.91676pt.
- <images/SAMMI.pdf, id=553, 1011.78pt x 433.62pt>
+ <images/SAMMI.pdf, id=581, 1011.78pt x 433.62pt>
 File: images/SAMMI.pdf Graphic file (type pdf)
 
 <use images/SAMMI.pdf>
-Package pdftex.def Info: images/SAMMI.pdf used on input line 95.
+Package pdftex.def Info: images/SAMMI.pdf used on input line 90.
 (pdftex.def)             Requested size: 417.47307pt x 178.91676pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[21 <./images/questionnaire-responses.pdf>] [22 <./images/Beatwave.pdf> <./imag
-es/Volotic.pdf> <./images/SAMMI.pdf>] [23] [24]
-<figs/Q1.pdf, id=602, 845.04686pt x 597.50786pt>
-File: figs/Q1.pdf Graphic file (type pdf)
- <use figs/Q1.pdf>
-Package pdftex.def Info: figs/Q1.pdf used on input line 134.
-(pdftex.def)             Requested size: 208.73653pt x 147.58961pt.
-
-<figs/Q4.pdf, id=603, 845.04686pt x 597.50786pt>
-File: figs/Q4.pdf Graphic file (type pdf)
- <use figs/Q4.pdf>
-Package pdftex.def Info: figs/Q4.pdf used on input line 137.
-(pdftex.def)             Requested size: 208.73653pt x 147.58961pt.
-
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 133--139
-[][] [] 
- []
-
-<figs/Q5.pdf, id=604, 845.04686pt x 597.50786pt>
-File: figs/Q5.pdf Graphic file (type pdf)
- <use figs/Q5.pdf>
-Package pdftex.def Info: figs/Q5.pdf used on input line 143.
-(pdftex.def)             Requested size: 208.73653pt x 147.58961pt.
-
-<figs/Q0.pdf, id=605, 845.04686pt x 597.50786pt>
-File: figs/Q0.pdf Graphic file (type pdf)
- <use figs/Q0.pdf>
-Package pdftex.def Info: figs/Q0.pdf used on input line 146.
-(pdftex.def)             Requested size: 208.73653pt x 147.58961pt.
-
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 142--148
-[][] [] 
+Underfull \hbox (badness 1210) in paragraph at lines 105--105
+[]|$\OMS/cmsy/m/n/10.95 ^^O$ \OT1/cmr/m/n/10.95 don't have too
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 162--162
-[]$\OMS/cmsy/m/n/10.95 ^^O$ \OT1/cmr/m/n/10.95 don't have too
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 170--170
+Underfull \hbox (badness 1394) in paragraph at lines 113--113
 \OT1/cmr/m/n/10.95 with with an in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-[]$\OMS/cmsy/m/n/10.95 ^^O$ \OT1/cmr/m/n/10.95 the in-ter-face
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]|$\OMS/cmsy/m/n/10.95 ^^O$ \OT1/cmr/m/n/10.95 the in-ter-face
+ []
+
+[21 <./images/Beatwave.pdf> <./images/Volotic.pdf> <./images/SAMMI.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+[]|\OT1/cmr/m/n/10.95 adjusted
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `fig: EFP' on page 22 undefined on input line 177.
 
-[25 <./figs/Q1.pdf> <./figs/Q4.pdf> <./figs/Q5.pdf> <./figs/Q0.pdf>] [26])
-(./Chapters/Chapter5.tex
+[22] [23]) (./Chapters/Chapter5.tex
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Conclusion
 ------------------------------------------------------------------------------
-[27
+[24
 
 
-] [28])
+] [25])
 \openout2 = `Appendices/Appendix.aux'.
 
  (./Appendices/Appendix.tex
@@ -1024,14 +1064,14 @@ Appendix A.
 ------------------------------------------------------------------------------
  A Independent Study Contract
 ------------------------------------------------------------------------------
-<images/IndependentStudyContract1.pdf, id=689, 597.50786pt x 845.04686pt>
+<images/IndependentStudyContract1.pdf, id=632, 597.50786pt x 845.04686pt>
 File: images/IndependentStudyContract1.pdf Graphic file (type pdf)
 
 <use images/IndependentStudyContract1.pdf>
 Package pdftex.def Info: images/IndependentStudyContract1.pdf used on input lin
 e 4.
 (pdftex.def)             Requested size: 417.47307pt x 590.41986pt.
- [29
+ [26
 
 
 
@@ -1039,15 +1079,15 @@ e 4.
 Overfull \vbox (89.02827pt too high) has occurred while \output is active []
 
 
-[30 <./images/IndependentStudyContract1.pdf>]
-<images/IndependentStudyContract2.pdf, id=740, 597.50786pt x 845.04686pt>
+[27 <./images/IndependentStudyContract1.pdf>]
+<images/IndependentStudyContract2.pdf, id=685, 597.50786pt x 845.04686pt>
 File: images/IndependentStudyContract2.pdf Graphic file (type pdf)
 
 <use images/IndependentStudyContract2.pdf>
 Package pdftex.def Info: images/IndependentStudyContract2.pdf used on input lin
 e 7.
 (pdftex.def)             Requested size: 417.47307pt x 590.41986pt.
-) [31 <./images/IndependentStudyContract2.pdf>]
+) [28 <./images/IndependentStudyContract2.pdf>]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (./Appendices/AppendixA.tex
@@ -1057,7 +1097,7 @@ Appendix B.
 ------------------------------------------------------------------------------
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[]\OT1/cmr/m/n/10.95 Application
+[]|\OT1/cmr/m/n/10.95 Application
  []
 
 LaTeX Font Info:    Try loading font information for OT1+qcr on input line 12.
@@ -1065,7 +1105,7 @@ LaTeX Font Info:    Try loading font information for OT1+qcr on input line 12.
 File: ot1qcr.fd 2009/09/25 v1.2 font definition file for OT1/qcr
 )
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[][][]$\OT1/qcr/m/n/10.95 <[]https :
+[]|[][]$\OT1/qcr/m/n/10.95 <[]https :
  []
 
 
@@ -1075,51 +1115,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\OT1/cmr/m/n/10.95 Music Strobe
+[]|\OT1/cmr/m/n/10.95 Music Strobe
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
-Overfull \hbox (18.63911pt too wide) in paragraph at lines 6--41
+Overfull \hbox (21.43907pt too wide) in paragraph at lines 6--41
 []
  []
 
@@ -1128,7 +1168,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--41
 
  []
 
-[32
+[29
 
 
 
@@ -1136,138 +1176,138 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--41
 Overfull \vbox (46.22346pt too high) has occurred while \output is active []
 
 
-[33]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[]\OT1/cmr/m/n/10.95 Application
+[]|\OT1/cmr/m/n/10.95 Application
  []
 
 
 Underfull \hbox (badness 2717) in paragraph at lines 55--55
-[]\OT1/cmr/m/n/10.95 make groove beats
+[]|\OT1/cmr/m/n/10.95 make groove beats
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 56--57
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--61
-[]\OT1/cmr/m/n/10.95 Amazing mu-sic
+[]|\OT1/cmr/m/n/10.95 Amazing mu-sic
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 1052) in paragraph at lines 64--64
-[]\OT1/cmr/m/n/10.95 Drum Pads Ma-
+[]|\OT1/cmr/m/n/10.95 Drum Pads Ma-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 1052) in paragraph at lines 67--67
-[]\OT1/cmr/m/n/10.95 Drum Pads Ma-
+[]|\OT1/cmr/m/n/10.95 Drum Pads Ma-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 71--72
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 1824) in paragraph at lines 73--73
-[]\OT1/cmr/m/n/10.95 Music Maker Loop
+[]|\OT1/cmr/m/n/10.95 Music Maker Loop
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 74--75
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]\OT1/cmr/m/n/10.95 Electronic Mu-sic
+[]|\OT1/cmr/m/n/10.95 Electronic Mu-sic
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--81
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--90
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]\OT1/cmr/m/n/10.95 Steve Re-ich's
+[]|\OT1/cmr/m/n/10.95 Steve Re-ich's
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]\OT1/cmr/m/n/10.95 Improve Your
+[]|\OT1/cmr/m/n/10.95 Improve Your
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 95--96
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 98--99
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 100--100
-[]\OT1/cmr/m/n/10.95 Loop-based Mu-sic
+[]|\OT1/cmr/m/n/10.95 Loop-based Mu-sic
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
-Overfull \hbox (18.63911pt too wide) in paragraph at lines 48--105
+Overfull \hbox (21.43907pt too wide) in paragraph at lines 48--105
 [][] 
  []
 
@@ -1275,128 +1315,128 @@ Overfull \hbox (18.63911pt too wide) in paragraph at lines 48--105
 Overfull \vbox (25.12694pt too high) has occurred while \output is active []
 
 
-[34]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]\OT1/cmr/m/n/10.95 Application
+[]|\OT1/cmr/m/n/10.95 Application
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[]\OT1/cmr/m/n/10.95 Dubstep Song
+[]|\OT1/cmr/m/n/10.95 Dubstep Song
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
-[]\OT1/cmr/m/n/10.95 Dubstep Filth
+[]|\OT1/cmr/m/n/10.95 Dubstep Filth
  []
 
 
 Underfull \hbox (badness 3118) in paragraph at lines 122--122
-[]\OT1/cmr/m/n/10.95 Sampler and Loop
+[]|\OT1/cmr/m/n/10.95 Sampler and Loop
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 125--125
-[]\OT1/cmr/m/n/10.95 Relax Med-i-tate
+[]|\OT1/cmr/m/n/10.95 Relax Med-i-tate
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 1253) in paragraph at lines 131--131
-[]\OT1/cmr/m/n/10.95 Create remix share
+[]|\OT1/cmr/m/n/10.95 Create remix share
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 132--133
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 135--136
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 138--139
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 144--145
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
-[]\OT1/cmr/m/n/10.95 Composer's
+[]|\OT1/cmr/m/n/10.95 Composer's
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 150--151
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 162--163
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 164--164
-[]\OT1/cmr/m/n/10.95 william LIND-
+[]|\OT1/cmr/m/n/10.95 william LIND-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 165--166
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
-Overfull \hbox (18.63911pt too wide) in paragraph at lines 112--169
+Overfull \hbox (21.43907pt too wide) in paragraph at lines 112--169
 [][] 
  []
 
@@ -1404,89 +1444,89 @@ Overfull \hbox (18.63911pt too wide) in paragraph at lines 112--169
 Overfull \vbox (25.12694pt too high) has occurred while \output is active []
 
 
-[35]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
-[]\OT1/cmr/m/n/10.95 Application
+[]|\OT1/cmr/m/n/10.95 Application
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 186--187
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 189--190
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[]\OT1/cmr/m/n/10.95 Interactive Mu-sic
+[]|\OT1/cmr/m/n/10.95 Interactive Mu-sic
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 192--193
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[]\OT1/cmr/m/n/10.95 MINI-
+[]|\OT1/cmr/m/n/10.95 MINI-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 195--196
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 7308) in paragraph at lines 200--200
-[]\OT1/cmr/m/n/10.95 Deep House Elec-
+[]|\OT1/cmr/m/n/10.95 Deep House Elec-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 201--202
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
-[]\OT1/cmr/m/n/10.95 Electronic Dance
+[]|\OT1/cmr/m/n/10.95 Electronic Dance
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 204--205
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 207--208
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 4621) in paragraph at lines 209--209
-[]\OT1/cmr/m/n/10.95 intuitive chord se-
+[]|\OT1/cmr/m/n/10.95 intuitive chord se-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 210--211
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 1168) in paragraph at lines 212--212
-[]\OT1/cmr/m/n/10.95 EasyBeats Drum
+[]|\OT1/cmr/m/n/10.95 EasyBeats Drum
  []
 
 
@@ -1496,22 +1536,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--212
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 212--212
-[]\OT1/cmr/m/n/10.95 Hopefully Use-ful
+[]|\OT1/cmr/m/n/10.95 Hopefully Use-ful
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 213--214
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 216--217
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 219--220
-[][][]$\OT1/qcr/m/n/10.95 https : / / itunes .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / itunes .
  []
 
 
@@ -1531,11 +1571,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 222--223
-[][][]$\OT1/qcr/m/n/10.95 https : / / appsto .
+[]|[][]$\OT1/qcr/m/n/10.95 https : / / appsto .
  []
 
 )
-Overfull \hbox (18.63911pt too wide) in paragraph at lines 175--215
+Overfull \hbox (21.43907pt too wide) in paragraph at lines 175--217
 [][] 
  []
 
@@ -1543,7 +1583,7 @@ Overfull \hbox (18.63911pt too wide) in paragraph at lines 175--215
 Overfull \vbox (45.52698pt too high) has occurred while \output is active []
 
 
-[36]
+[33]
 \openout2 = `Appendices/AppendixB.aux'.
 
  (./Appendices/AppendixB.tex
@@ -1551,14 +1591,14 @@ Appendix C.
 ------------------------------------------------------------------------------
  C Questionnaire
 ------------------------------------------------------------------------------
-<images/Questionnaire_1.png, id=924, 489.83pt x 692.5875pt>
+<images/Questionnaire_1.png, id=868, 489.83pt x 692.5875pt>
 File: images/Questionnaire_1.png Graphic file (type png)
 
 <use images/Questionnaire_1.png>
 Package pdftex.def Info: images/Questionnaire_1.png used on input line 8.
 (pdftex.def)             Requested size: 417.47307pt x 590.29793pt.
 
-<images/Questionnaire_2.png, id=925, 488.82625pt x 692.5875pt> [37
+<images/Questionnaire_2.png, id=869, 488.82625pt x 692.5875pt> [34
 
 
 
@@ -1566,12 +1606,12 @@ Package pdftex.def Info: images/Questionnaire_1.png used on input line 8.
 Overfull \vbox (88.90634pt too high) has occurred while \output is active []
 
 
-[38 <./images/Questionnaire_1.png>]
+[35 <./images/Questionnaire_1.png>]
 File: images/Questionnaire_2.png Graphic file (type png)
  <use images/Questionnaire_2.png>
 Package pdftex.def Info: images/Questionnaire_2.png used on input line 10.
 (pdftex.def)             Requested size: 417.47307pt x 591.50267pt.
-) [39 <./images/Questionnaire_2.png>] (./Appendices/AppendixC.tex
+) [36 <./images/Questionnaire_2.png>] (./Appendices/AppendixC.tex
 Appendix D.
 ------------------------------------------------------------------------------
  D Interview Questions
@@ -1647,21 +1687,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-[40
+[37
 
 
-])
-Overfull \hbox (9.57642pt too wide) in paragraph at lines 22--220
+]
+Overfull \hbox (9.57642pt too wide) in paragraph at lines 22--24
 []\OT1/qcr/m/n/10.95 8. Would you play any of these apps later, or will you tel
 l your
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--220
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
 
  []
 
-[41]
+[38]) (./Appendices/AppendixD.tex
+Appendix E.
+------------------------------------------------------------------------------
+ E Questionnaire Data
+------------------------------------------------------------------------------
+<images/questionnaire_data1.png, id=892, 718.685pt x 370.38374pt>
+File: images/questionnaire_data1.png Graphic file (type png)
+
+<use images/questionnaire_data1.png>
+Package pdftex.def Info: images/questionnaire_data1.png used on input line 4.
+(pdftex.def)             Requested size: 417.47307pt x 215.15616pt.
+
+<images/questionnaire_data2.png, id=893, 718.685pt x 370.38374pt>
+File: images/questionnaire_data2.png Graphic file (type png)
+
+<use images/questionnaire_data2.png>
+Package pdftex.def Info: images/questionnaire_data2.png used on input line 5.
+(pdftex.def)             Requested size: 417.47307pt x 215.15616pt.
+
+<images/questionnaire_data3.png, id=894, 782.925pt x 372.39125pt>
+File: images/questionnaire_data3.png Graphic file (type png)
+
+<use images/questionnaire_data3.png>
+Package pdftex.def Info: images/questionnaire_data3.png used on input line 6.
+(pdftex.def)             Requested size: 417.47307pt x 198.57104pt.
+ [39
+
+
+ <./images/questionnaire_data1.png> <./images/questionnaire_data2.png>] [40 <./
+images/questionnaire_data3.png>])
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
@@ -1672,7 +1741,8 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [42
+ [41
+
 
 
 ]
@@ -1682,49 +1752,55 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [43]
+ [42]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [44])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
- [45]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+ [43])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+ [44]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
  (./Thesis.aux (./Appendices/Appendix.aux)
 (./Appendices/AppendixA.aux) (./Appendices/AppendixB.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: EB67F547D733481582512CDE5B0CB909;6322.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
+(rerunfilecheck)             Checksum: F256DBA4326AC87BFCC6BE520E8D34A6;7270.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
  ) 
 Here is how much of TeX's memory you used:
- 14509 strings out of 493014
- 207612 string characters out of 6133351
- 294727 words of memory out of 5000000
- 17618 multiletter control sequences out of 15000+600000
- 13640 words of font info for 50 fonts, out of 8000000 for 9000
+ 14983 strings out of 493014
+ 215300 string characters out of 6133351
+ 298074 words of memory out of 5000000
+ 18074 multiletter control sequences out of 15000+600000
+ 13635 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,1397b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/tex-gyre/q-rmm.enc}</usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb>
-Output written on Thesis.pdf (55 pages, 8064714 bytes).
+ 49i,12n,45p,1530b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/tex-gyre/q-rmm.enc}{/usr/
+local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on Thesis.pdf (54 pages, 5858586 bytes).
 PDF statistics:
- 1043 PDF objects out of 1200 (max. 8388607)
- 903 compressed objects within 10 object streams
- 149 named destinations out of 1000 (max. 500000)
- 451 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1012 PDF objects out of 1200 (max. 8388607)
+ 883 compressed objects within 9 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 460 words of extra memory for PDF output out of 10000 (max. 10000000)
 

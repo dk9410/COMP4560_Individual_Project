@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,6 +11,61 @@ Marcelo~Mortensen Wanderley and Nicola Orio.
   from hci.
 \newblock \emph{Computer Music Journal}, 26\penalty0 (3):\penalty0 62--76,
   2002.
+
+\bibitem[Schmid(2015)]{Reference0}
+Gian-Marco Schmid.
+\newblock Evaluation of musical instruments from the musician’s perspective.
+\newblock 2015.
+
+\bibitem[Nguyen et~al.(2015)Nguyen, Barton, and Nguyen]{Reference2}
+Lemai Nguyen, Siew~Mee Barton, and Linh~Thuy Nguyen.
+\newblock Ipads in higher education—hype and hope.
+\newblock \emph{British Journal of Educational Technology}, 46\penalty0
+  (1):\penalty0 190--203, 2015.
+
+\bibitem[M{\"u}ller et~al.(2012)M{\"u}ller, Gove, and Webb]{Reference1}
+Hendrik M{\"u}ller, Jennifer Gove, and John Webb.
+\newblock Understanding tablet use: a multi-method exploration.
+\newblock In \emph{Proceedings of the 14th international conference on
+  Human-computer interaction with mobile devices and services}, pages 1--10.
+  ACM, 2012.
+
+\bibitem[Nations(2017)]{lifewire}
+Daniel Nations.
+\newblock How many ipad apps are in the app store?, 2017.
+\newblock URL
+  \url{https://www.lifewire.com/how-many-ipad-apps-in-app-store-1994320}.
+\newblock [Online; accessed 10-May-2017].
+
+\bibitem[Wang et~al.(2011)Wang, Oh, and Lieber]{Reference8.4}
+Ge~Wang, Jieun Oh, and Tom Lieber.
+\newblock Designing for the ipad: Magic fiddle.
+\newblock In \emph{NIME}, pages 197--202, 2011.
+
+\bibitem[Martin et~al.(2014)Martin, Gardner, and Swift]{Reference19}
+Charles Martin, Henry Gardner, and Ben Swift.
+\newblock Exploring percussive gesture on ipads with ensemble metatone.
+\newblock In \emph{Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems}, pages 1025--1028. ACM, 2014.
+
+\bibitem[Stowell et~al.(2009)Stowell, Robertson, Bryan-Kinns, and
+  Plumbley]{Reference21}
+Dan Stowell, Andrew Robertson, Nick Bryan-Kinns, and Mark~D Plumbley.
+\newblock Evaluation of live human--computer music-making: Quantitative and
+  qualitative approaches.
+\newblock \emph{International Journal of Human-Computer Studies}, 67\penalty0
+  (11):\penalty0 960--975, 2009.
+
+\bibitem[Kell and Wanderley(2014)]{Reference14}
+Thor Kell and Marcelo~M Wanderley.
+\newblock A high-level review of mappings in musical ios applications.
+\newblock In \emph{ICMC}, 2014.
+
+\bibitem[Newton-Dunn et~al.(2003)Newton-Dunn, Nakano, and Gibson]{Reference20}
+Henry Newton-Dunn, Hiroaki Nakano, and James Gibson.
+\newblock Block jam: a tangible interface for interactive music.
+\newblock In \emph{Proceedings of the 2003 conference on New interfaces for
+  musical expression}, pages 170--177. National University of Singapore, 2003.
 
 \bibitem[NIME(2012)]{Reference15}
 NIME.
@@ -47,61 +102,6 @@ Nicholas~J Bryan, Jorge Herrera, Jieun Oh, and Ge~Wang.
 Nick Kruge and Ge~Wang.
 \newblock Madpad: A crowdsourcing system for audiovisual sampling.
 \newblock In \emph{NIME}, pages 185--190, 2011.
-
-\bibitem[Wang et~al.(2011)Wang, Oh, and Lieber]{Reference8.4}
-Ge~Wang, Jieun Oh, and Tom Lieber.
-\newblock Designing for the ipad: Magic fiddle.
-\newblock In \emph{NIME}, pages 197--202, 2011.
-
-\bibitem[Nguyen et~al.(2015)Nguyen, Barton, and Nguyen]{Reference2}
-Lemai Nguyen, Siew~Mee Barton, and Linh~Thuy Nguyen.
-\newblock Ipads in higher education—hype and hope.
-\newblock \emph{British Journal of Educational Technology}, 46\penalty0
-  (1):\penalty0 190--203, 2015.
-
-\bibitem[M{\"u}ller et~al.(2012)M{\"u}ller, Gove, and Webb]{Reference1}
-Hendrik M{\"u}ller, Jennifer Gove, and John Webb.
-\newblock Understanding tablet use: a multi-method exploration.
-\newblock In \emph{Proceedings of the 14th international conference on
-  Human-computer interaction with mobile devices and services}, pages 1--10.
-  ACM, 2012.
-
-\bibitem[Nations(2017)]{lifewire}
-Daniel Nations.
-\newblock How many ipad apps are in the app store?, 2017.
-\newblock URL
-  \url{https://www.lifewire.com/how-many-ipad-apps-in-app-store-1994320}.
-\newblock [Online; accessed 10-May-2017].
-
-\bibitem[Martin et~al.(2014)Martin, Gardner, and Swift]{Reference19}
-Charles Martin, Henry Gardner, and Ben Swift.
-\newblock Exploring percussive gesture on ipads with ensemble metatone.
-\newblock In \emph{Proceedings of the 32nd annual ACM conference on Human
-  factors in computing systems}, pages 1025--1028. ACM, 2014.
-
-\bibitem[Stowell et~al.(2009)Stowell, Robertson, Bryan-Kinns, and
-  Plumbley]{Reference21}
-Dan Stowell, Andrew Robertson, Nick Bryan-Kinns, and Mark~D Plumbley.
-\newblock Evaluation of live human--computer music-making: Quantitative and
-  qualitative approaches.
-\newblock \emph{International Journal of Human-Computer Studies}, 67\penalty0
-  (11):\penalty0 960--975, 2009.
-
-\bibitem[Schmid(2015)]{Reference0}
-Gian-Marco Schmid.
-\newblock Evaluation of musical instruments from the musician’s perspective.
-\newblock 2015.
-
-\bibitem[Kell and Wanderley(2014)]{Reference14}
-Thor Kell and Marcelo~M Wanderley.
-\newblock A high-level review of mappings in musical ios applications.
-\newblock In \emph{ICMC}, 2014.
-
-\bibitem[Newton-Dunn et~al.(2003)Newton-Dunn, Nakano, and Gibson]{Reference20}
-Henry Newton-Dunn, Hiroaki Nakano, and James Gibson.
-\newblock Block jam: a tangible interface for interactive music.
-\newblock In \emph{Proceedings of the 2003 conference on New interfaces for
-  musical expression}, pages 170--177. National University of Singapore, 2003.
 
 \bibitem[Flores et~al.(2010)Flores, Miletto, Pimenta, Miranda, and
   Keller]{Reference4}
@@ -196,5 +196,30 @@ Jeronimo Barbosa, Joseph Malloch, Marcelo~M Wanderley, and St{\'e}phane Huot.
 \newblock What does" evaluation" mean for the nime community?
 \newblock In \emph{NIME 2015-15th International Conference on New Interfaces
   for Musical Expression}, pages 156--161. Louisiana State University, 2015.
+
+\bibitem[Norman(2010)]{norman_likert_2010}
+Geoff Norman.
+\newblock Likert scales, levels of measurement and the "laws" of statistics.
+\newblock \emph{Advances in health sciences education : theory and practice},
+  February 2010.
+\newblock \doi{10.1007/s10459-010-9222-y}.
+\newblock URL \url{http://www.springerlink.com/content/p11l562668125341/}.
+
+\bibitem[Wobbrock et~al.(2011)Wobbrock, Findlater, Gergle, and
+  Higgins]{wobbrock_aligned_2011}
+Jacob~O. Wobbrock, Leah Findlater, Darren Gergle, and James~J. Higgins.
+\newblock The {Aligned} {Rank} {Transform} for {Nonparametric} {Factorial}
+  {Analyses} {Using} {Only} {Anova} {Procedures}.
+\newblock In \emph{Proceedings of the {SIGCHI} {Conference} on {Human}
+  {Factors} in {Computing} {Systems}}, {CHI} '11, pages 143--146, New York, NY,
+  USA, 2011. ACM.
+\newblock ISBN 978-1-4503-0228-9.
+\newblock \doi{10.1145/1978942.1978963}.
+\newblock URL \url{http://doi.acm.org/10.1145/1978942.1978963}.
+
+\bibitem[Kay and Wobbrock(2016)]{matthew_kay_2016_48543}
+Matthew Kay and Jacob Wobbrock.
+\newblock Artool: 0.10.2, March 2016.
+\newblock URL \url{https://doi.org/10.5281/zenodo.48543}.
 
 \end{thebibliography}
